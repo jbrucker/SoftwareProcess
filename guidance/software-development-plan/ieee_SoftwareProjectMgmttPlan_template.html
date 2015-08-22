@@ -1,0 +1,644 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<title>Software Project Management Plan</title>
+<style><!--
+H1	{
+	font-size:14.0pt;
+	font-family:"Arial,Helvetica,sans-serif";}
+.MsoToc1
+	{line-height:12.0pt;
+	tab-stops:right 468.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+.MsoToc2
+	{line-height:12.0pt;
+	tab-stops:right 468.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+.MsoToc3
+	{line-height:12.0pt;
+	tab-stops:72.0pt right 468.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+.MsoTitle
+	{text-align:center;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+.MsoBodyText
+	{line-height:12.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+.Tabletext
+	{line-height:12.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+.InfoBlue
+	{line-height:12.0pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	font-style:italic;}
+.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" link=blue vlink=purple class="Normal" lang=EN-US>
+<div class=Section1> 
+  <p class=MsoTitle align=right style='text-align:right'><span style='"SUBJECT  \\* MERGEFORMAT"'>&lt;Project 
+    Name&gt;</span></p>
+  <p class=MsoTitle align=right style='text-align:right'><span style='"TITLE  \\* MERGEFORMAT"'>Software 
+    Project Management Plan</span></p>
+  <p class=MsoTitle align=right style='text-align:right'><span style='font-size:
+14.0pt;'>Version &lt;1.0&gt;</span></p>
+  <div style='border:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'> 
+    <p style='border:none;padding:0cm;'><span style='color:blue'>This template 
+      uses the organization described in IEEE 1058 <i>Software Project Management 
+      Plans</i>.&nbsp; Please see the IEEE 1058 document for description of each 
+      section of the document.&nbsp; The template itself is adapted from the RUP 
+      <i>Software Development Plan</i> template.</span></p>
+  </div>
+  <p class=InfoBlue>The blue text contains suggestions and guides.&nbsp; Delete 
+    all blue text from your SPMP.</p>
+  <p class=InfoBlue>To customize automatic fields in Microsoft Word (which display 
+    a gray background when selected), select File&gt;Properties and replace the 
+    Title, Subject and Company fields with the appropriate information for this 
+    document.</p>
+  <p class=InfoBlue>&nbsp;After changing field values, update the entire document 
+    using Select All (or Ctrl-A) and press F9.&nbsp; You must update fields in 
+    headers and footers separately.</p>
+  <br clear=all
+style='page-break-before:always'>
+  <p class=MsoTitle>Revision History, by Section and Author</p>
+  <table border=1 cellspacing=0 cellpadding=0 width=789>
+    <tr> 
+      <td width=140 valign=top class="Normal"> <p class=Tabletext align=center style='text-align:center'><b>Date<br>
+          (dd/mm/yyyy)</b></p></td>
+      <td width=82 valign=top class="Normal"> <p class=Tabletext align=center style='text-align:center'><b>Version<br>
+          (x.y)</b></p></td>
+      <td width=413 valign=top class="Normal"> <p class=Tabletext align=center style='text-align:center'><b>Section 
+          Number &amp; Description of Change</b></p></td>
+      <td width=154 valign=top class="Normal"> <p class=Tabletext align=center style='text-align:center'><b>Author</b></p></td>
+    </tr>
+    <tr> 
+      <td width=140 valign=top class="Normal"> <p class=Tabletext><i>05/12/2007</i></p></td>
+      <td width=82 valign=top class="Normal"> <p class=Tabletext><i>0.0.1</i></p></td>
+      <td width=413 valign=top class="Normal"> <p class=Tabletext><i>7.9 Caffeine 
+          Mgmt Plan - wrote this section</i></p></td>
+      <td width=154 valign=top class="Normal"> <p class=Tabletext><i>Joe Hacker</i></p></td>
+    </tr>
+  </table>
+  <p class=InfoBlue>Add new rows to table as needed.&nbsp; The team should agree 
+    on a version number plan.&nbsp; Any major upgrade in version&nbsp; should 
+    occur after the changes are <u>reviewed and agreed on</u>.</p>
+  <br clear=all style='page-break-before:always'>
+  <p class=MsoTitle>Table of Contents</p>
+  <p class=MsoToc1>&nbsp; </p>
+  <table border="0" cellpadding="3" align="center" width="90%">
+    <tr>
+	 <th>Section</th>
+	 <th>Page</th>
+	 </tr>
+    <tr>
+      <td>1. Overview</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>1.1 Project Summary</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>1.1.1 Project Purpose, Scope, and Objectives</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>1.2 Assumptions and Constraints</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>1.3 Project Deliverables</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>1.4 Evolution of the Project Management Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>2. References</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>3. Definitions and Acronyms</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>4. Project Organization</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>4.1 External Interfaces</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>4.2 Organizational Structure</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>4.3 Roles and Responsibilities</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5. Management Process</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.1 Start-up Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.1.1 Estimation Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.1.2 Staffing Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.1.3 Resource Acquisition Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.1.4 Training Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.2 Work Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.2.1 Work Activities</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.2.2 Project Schedule</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.2.3 Resource Allocation</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.2.4 Budget Allocation</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3 Control Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.1 Requirements Management Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.2 Schedule Control Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.3 Budget Control Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.4 Quality Control Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.5 Reporting Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.3.6 Metrics Collection Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.4 Risk Management Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>5.5 Project Close-out Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>6. Technical Process Plans</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>6.1 Process Model</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>6.2 Methods, Tools, and Techniques</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>6.3 Infrastructure Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>6.4 Product Acceptance Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7. Supporting Process Plans</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.1 Configuration Management Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.2 Verification and Validation Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.3 Documentation Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.4 Quality Assurance Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.5 Reviews and Audits Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.6 Problem Resolution Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.7 Subcontractor Management Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>7.8 Process Improvement Plan</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>8. Additional Plans</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>9. Annexes</td>
+      <td>2 </td>
+    </tr>
+    <tr>
+      <td>10. Index</td>
+      <td>2 </td>
+    </tr>
+  </table>
+  <p class=MsoTitle> <br clear=all style='page-break-before:
+always'>
+    <span style='"TITLE  \\* MERGEFORMAT"'>Software Project Management Plan</span></p>
+  <h1><a name="_Toc447095882"></a><a
+name="_Toc184473572"> 1. Overview</a></h1>
+  <h2><a
+name="_Toc184473573"> 1.1 Project Summary</a></h2>
+  <p class=InfoBlue>In the following subsections be concise and avoid duplicating 
+    information.&nbsp; You may reference the Vision statement and business case 
+    if appropriate.&nbsp; Reference specific sections of these documents so the 
+    reader doesn't have to search for information.</p>
+  <h3><a
+name="_Toc184473574"> 1.1.1 Project Purpose, Scope, and Objectives</a></h3>
+  <p class=InfoBlue>A brief description of the purpose and scope of this project 
+    and the project objectives.&nbsp; You may reference the Vision statement or 
+    Project Proposal.</p>
+  <h3><a
+name="_Toc184473575"> 1.1.2 Assumptions and Constraints</a></h3>
+  <p class=InfoBlue>A list of assumptions that this plan is based on and any constraints, 
+    for example. budget, staff, equipment, schedule that apply to the project.</p>
+  <h3><a
+name="_Toc184473576">1.1.3 Project Deliverables</a></h3>
+  <p class=InfoBlue>List all the work products to be delivered to the client or 
+    acquirer, including target delivery dates. Use a table.</p>
+  <h2><a
+name="_Toc184473577">1.2 Evolution of the 
+    Project Management Plan</a></h2>
+  <p class=InfoBlue>The project management plan may be revised in view of experience 
+    and change.&nbsp; Describe the formal procedure for changing this plan.&nbsp; 
+  </p>
+  <p class=InfoBlue>When can it be updated? Who reviews and approves the changes?</p>
+  <h1><a name="_Toc184473578"><span> 2. References</span></a></h1>
+  <p class=InfoBlue>This subsection provides a complete list of all documents 
+    referenced elsewhere in this plan. Identify each document by title, report 
+    number if applicable, date, and publishing organization. Specify the sources 
+    from which the references can be obtained. This information may be provided 
+    by reference to an appendix or to another document<a name="_Toc456598591"></a><a name="_Toc456600922">. 
+    </a></p>
+  <h1><a name="_Toc184473579"></a><a
+name="_Toc456598589"></a><a name="_Toc456600920"></a><a name="_Toc184473579"><span> 
+    3. Definitions and 
+    Acronyms</span></a></h1>
+  <p class=InfoBlue>This subsection provides the definitions of all terms, acronyms, 
+    and abbreviations required to properly interpret this plan. This information 
+    may be provided by reference to the project’s Glossary.</p>
+  <h1><a
+name="_Toc184473580"> 4. Project Organization</a></h1>
+  <h2><a name="_Toc447095888"></a><a
+name="_Toc447095889"></a><a name="_Toc184473581"><span> 4.1 External Interfaces</span></a></h2>
+  <p class=InfoBlue>Describe how the project interfaces with external groups. 
+    For each external group, identify the internal and external contact names.&nbsp; 
+    Customers and professors you report to -- and how you report to them -- are 
+    external interfaces.</p>
+  <h2><a
+name="_Toc184473582"> 4.2 Organizational Structure</a></h2>
+  <p class=InfoBlue>Describe the organizational structure of the project team, 
+    including management and other review authorities. <span style='"Angsana New";'>Graphical 
+    devices such as organizational charts or diagrams should be used to depict 
+    the lines of authority, responsibility, and communication within the project.</span></p>
+  <h2><a name="_Toc447095890"></a><a
+name="_Toc184473583"> 4.3 Roles and Responsibilities</a></h2>
+  <p class=InfoBlue>Identify the roles, activities, and person responsible.&nbsp; 
+    This is usually given in as a table. &nbsp;You can organize it by project 
+    function (activity group) or by role, but it should cover all activities.&nbsp; 
+    Don't break the work down into detail, since that is given in the &quot;Resource 
+    Allocation&quot; section.</p>
+  <h1><a name="_Toc447095891"></a><a
+name="_Toc184473584"> 5. Management Process</a></h1>
+  <h2><a name="_Toc447095892"></a><a
+name="_Toc184473585"> 5.1 Start-up Plan</a></h2>
+  <h3><a
+name="_Toc184473586"> 5.1.1 Estimat</a>ion Plan</h3>
+  <p class=InfoBlue>Specify the cost and schedule for conducting the project as 
+    well as methods, tools, and techniques used to estimate project cost, schedule, 
+    resource requirements, and associated confidence levels. </p>
+  <p class=InfoBlue>Specify basis of estimation including techniques such as analogy, 
+    rule of thumb, or local history and the sources of data. </p>
+  <p class=InfoBlue>The cost and schedule estimates may be updated during the 
+    project - we haven't covered estimation techniques yet, so your estimates 
+    may be crude.&nbsp; Avoid guestimating.</p>
+  <p class=InfoBlue>List when, under what conditions, and how the cost and schedule 
+    estimates may be updated.</p>
+  <h3><a name="_Toc184473587"> 5.1.2 Staffing Plan</a></h3>
+  <p class=InfoBlue>Identify the numbers and type of staff required, including 
+    any special skills or experience, scheduled by project phase or iteration.</p>
+  <h3><a name="_Toc184473588"> 5.1.3 Resource Acquisition 
+    Plan</a></h3>
+  <p class=InfoBlue>Describe how you will approach finding and acquiring the staff 
+    needed for the project.</p>
+  <p class=InfoBlue>For class projects you can't acquire new staff, but you might 
+    describe a procedure for finding &quot;consultants&quot;, e.g. senior students 
+    or instructors.</p>
+  <h3><a name="_Toc184473589"> 5.1.4 Training Plan</a></h3>
+  <p class=InfoBlue>List any special training project team members will require, 
+    with target dates for when this training should be completed.</p>
+  <h2><a name="_Toc447095893"></a><a
+name="_Toc184473590"> 5.2 Work Plan</a></h2>
+  <p class=InfoBlue>Specify the work activities, schedule, resources, and budget 
+    details for the software project in the following subsections.</p>
+  <h3><a name="_Toc184473591"> 5.2.1 Work Activities</a></h3>
+  <p class=InfoBlue>List work activities, down to the task level</p>
+  <p class=InfoBlue> <span style='font-family:
+Symbol;font-style:normal'>&middot;</span> use a Work Breakdown Structure (WBS).&nbsp; WBS concepts:</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> Hierarchy of deliverables</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> (Optional) work package level at the bottom</p>
+  <h3><a name="_Toc447095897"></a><a
+name="_Toc184473592"> 5.2.2 Project Schedule</a></h3>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;</span> Show the scheduling relationships among work activities</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;</span> Show time-sequencing constraints and opportunities for concurrent 
+    work</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;</span> Include milestones that can be assessed for achievement using 
+    objective indicators</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;</span> Techniques for showing schedule relationships include milestone 
+    charts, activity lists, Gantt charts, activity networks, critical path networks, 
+    and PERT.</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;</span> Define any important release points and demos.</p>
+  <h3><a name="_Toc430447688"></a><a
+name="_Toc430447691"></a><a name="_Toc447095898"></a><a name="_Toc184473593"><span> 
+    5.2.3 Resourc</span></a><a
+name="_Toc430447692"><span>e Allocation</span></a></h3>
+  <p class=InfoBlue><span>Detailed itemization of the resources allocated to each 
+    major work activity in the project work breakdown structure.&nbsp; This is 
+    often shown as a table.</span></p>
+  <h3><a name="_Toc447095899"></a><a
+name="_Toc184473594"> 5.2.4 Budget Allocation</a></h3>
+  <p class=InfoBlue>Breakdown of the budget to activity and task level</p>
+  <h2><a name="_Toc447095908"></a><a
+name="_Toc184473595"> 5.3 Control Plan</a></h2>
+  <h3><a name="_Toc447095909"></a><a
+name="_Toc184473596"> 5.3.1 Requirements Control 
+    Plan</a></h3>
+  <p class=InfoBlue>Describe your plan for monitoring and controlling changes 
+    in requirements.&nbsp; You should have a single channel for change requests, 
+    and a procedure for evaluating whether to accept the request.</p>
+  <h3><a name="_Toc447095910"></a><a
+name="_Toc184473597"> 5.3.2 Schedule Control 
+    Plan</a></h3>
+  <p class=InfoBlue>Describe the approach taken to monitor progress against the 
+    planned schedule and how to take corrective action when required.</p>
+  <h3><a name="_Toc447095911"></a><a
+name="_Toc184473598"> 5.3.3 Budget Control 
+    Plan</a></h3>
+  <p class=InfoBlue>Describe the approach to be taken to monitor spending against 
+    the project budget and how to take corrective action when required.&nbsp; 
+    For class projects, &quot;spending&quot; means effort.</p>
+  <h3><a name="_Toc447095912"></a><a
+name="_Toc184473599"> 5.3.4 Quality Control 
+    Plan</a> </h3>
+  <p class=InfoBlue>Describe the timing and methods to be used to control the 
+    quality of the project deliverables and how to take corrective action when 
+    required.</p>
+  <h3><a name="_Toc447095913"></a><a
+name="_Toc184473600"> 5.3.5 Reporting Plan</a></h3>
+  <p class=InfoBlue>Describe internal and external reports to be generated, and 
+    the frequency and distribution of the reports.</p>
+  <h3><a name="_Toc447095914"></a><a
+name="_Toc184473601"> 5.3.6 Metrics Collection 
+    Plan</a></h3>
+  <p class=InfoBlue>You can't monitor and control the project unless you collect 
+    some quantitative measurements. What will you measure? How are measurements 
+    collected?&nbsp; Where are they stored?</p>
+  <p class=InfoBlue>You should probably at least measure effort, defects, size, 
+    and schedule (e.g. tasks performed on-time, early, late).</p>
+  <h2><a name="_Toc447095915"></a><a
+name="_Toc184473602"> 5.4 Risk Management 
+    Plan</a></h2>
+  <p class=InfoBlue>Risks must be identified, prioritized, and mitigated.&nbsp; 
+    Describe your plan for this.&nbsp; The known risks are listed in other documents 
+    (SRS, Proposal, or Vision).</p>
+  <h2><a name="_Toc447095916"></a><a
+name="_Toc184473603"> 5.5 Project Close-out 
+    Plan</a></h2>
+  <p class=InfoBlue>Describe the activities for orderly completion of the project. 
+    Include: staff reassignment, archiving of project materials (artifacts), post-mortem 
+    debriefing and reports.</p>
+  <h1><a name="_Toc447095917"></a><a
+name="_Toc184473604"> 6. Technical Process 
+    Plans</a></h1>
+  <h2><a name="_Toc184473605"> 6.1 Process Model</a></h2>
+  <p class=InfoBlue>Detailed description of the software project life-cycle model 
+    to be used</p>
+  <h2><a name="_Toc447095919"></a><a
+name="_Toc184473606"> 6.2 Methods, Tools, 
+    and Techniques</a></h2>
+  <p class=InfoBlue>Describe the development methodologies, programming languages, 
+    and other notations (e.g. UML, ER) to be used. </p>
+  <p class=InfoBlue>Describe the tools and techniques to specify, design, build, 
+    test, integrate, document, deliver, modify, and maintain the deliverable and 
+    non-deliverable work products.</p>
+  <p class=InfoBlue>Describe technical standards, policies, and procedures for 
+    development and/or modification of the work products.&nbsp; For example:</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Business Modeling Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> User Interfaces Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Use-Case-Modeling Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Design Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Programming Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Test Guidelines</p>
+  <p class=InfoBlue> <span style='font-family:Symbol;
+font-style:normal'>&middot;</span> Manual Style guide</p>
+  <h2><a name="_Toc447095920"></a><a
+name="_Toc184473607"> 6.3 Infrastructure 
+    Plan</a></h2>
+  <p class=InfoBlue>Technical aspects of hardware and software you will use.&nbsp; 
+    You may also describe physical workspace and procedures for its use and maintenance.</p>
+  <h2><a name="_Toc447095921"></a><a
+name="_Toc184473608"> 6.4 Product Acceptance 
+    Plan</a></h2>
+  <p class=InfoBlue>Describe the methods or <u>procedures</u> for project acceptance.</p>
+  <p class=InfoBlue>The acceptance criteria are described in another document 
+    (e.g. SRS), so reference that instead of duplicating.</p>
+  <h1><a name="_Toc447095922"></a><a
+name="_Toc184473609"> 7. Supporting Process 
+    Plans</a></h1>
+  <h2><a name="_Toc447095923"></a><a
+name="_Toc184473610"> 7.1 Configuration 
+    Management Plan</a></h2>
+  <p class=InfoBlue>How will you provide configuration identification, control, 
+    status accounting, evaluation, and release management?</p>
+  <p class=InfoBlue>Describe the location of work products in the CM system -- 
+    probably using a table. You don't need to list the location of each item -- 
+    just categorize them.&nbsp; For example:</p>
+  <table border=1 cellspacing=0 cellpadding=0>
+    <tr> 
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Source code</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Subversion VCS</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>http://se.cpe.ku.ac.th/svn/myproject</span></p></td>
+    </tr>
+    <tr> 
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Project Management docs</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Project Wiki</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>http://se.cpe.ku.ac.th/twiki/myproject</span></p></td>
+    </tr>
+    <tr> 
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Bugs and issues</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Issue tracking system</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>http://theory.../bugzilla/...</span></p></td>
+    </tr>
+    <tr> 
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Review Reports</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>project notebook (hardcopy)</span></p></td>
+      <td > <p class=MsoBodyText><span style='color:navy;
+  '>Project Manager</span></p></td>
+    </tr>
+  </table>
+  <p class=InfoBlue>The CM plan should also specify:</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> Convention for naming and organization of files</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> Backup procedure: how are managed items backed up?&nbsp; Who 
+    is responsible for backups?</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> Access control: who has read and write access to managed artifacts?</p>
+  <p class=InfoBlue> <span style='font-family:Wingdings;
+font-style:normal'>&sect;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </span></span> Reconciliation: how will conflicts in versions be resolved 
+    (e.g. two people modify the same document and then try to update the CM version)</p>
+  <p class=InfoBlue><b>Change Requests</b>: logging and analysis of change requests, 
+    change control board procedures, tracking of changes in progress, and procedures 
+    for notifying concerned parties when baselines are first established or later 
+    changed</p>
+  <h2><a name="_Toc447095924"></a><a
+name="_Toc184473611"> 7.2 Verification and 
+    Validation Plan</a></h2>
+  <p class=InfoBlue>Describe scope, tools, procedures, and techniques for V&amp;V 
+    activities. </p>
+  <p class=InfoBlue>Verification: requirements traceability, milestone reviews, 
+    prototyping, modeling</p>
+  <p class=InfoBlue>Validation: testing, demonstration, walkthroughs, code inspection</p>
+  <h2><a name="_Toc447095925"></a><a
+name="_Toc184473612"> 7.3 Documentation 
+    Plan</a></h2>
+  <p class=InfoBlue>Describe all forms of documentation, whether or not it is 
+    deliverable to the client</p>
+  <h2><a name="_Toc447095926"></a><a
+name="_Toc184473613"> 7.4 Quality Assurance 
+    Plan</a></h2>
+  <p class=InfoBlue>Describe how the project will ensure that it meets its quality 
+    objectives.&nbsp; This may include steps to ensure that processes are followed, 
+    and other measures in this section (V&amp;V, testing).</p>
+  <h2><a name="_Toc447095928"></a><a
+name="_Toc184473614"> 7.5 Reviews and Audits 
+    Plan</a></h2>
+  <p class=InfoBlue>What reviews or audits will be performed?</p>
+  <p class=InfoBlue>Reviews may be (a) customer initiated, (b) management initiated, 
+    (c) self (author) initiated.</p>
+  <p class=InfoBlue>Describe the procedure (process) and output of reviews.</p>
+  <h2><a name="_Toc447095929"></a><a
+name="_Toc184473615"> 7.6 Problem Resolution 
+    Plan</a></h2>
+  <p class=InfoBlue><span>Descr</span>ibe resources, methods, tools, techniques, 
+    and procedures to be used in reporting, analyzing, prioritizing, and processing 
+    software problem reports generated during the project. The problem resolution 
+    plan should indicate the roles of development, configuration management, the 
+    change control board, and verification and validation in proble<span>m resolution 
+    work activities</span></p>
+  <h2><a
+name="_Toc184473616"> 7.7 Subcontractor Management Plan</a></h2>
+  <p class=InfoBlue>See IEEE1058.&nbsp; Doesn't apply to class projects.</p>
+  <h2><a name="_Toc447095930"></a><a
+name="_Toc184473617"> 7.8 Process Improvement 
+    Plan</a></h2>
+  <p class=InfoBlue>Strategy to improve your project processes.</p>
+  <h1><a name="_Toc447095931"></a><a
+name="_Toc184473618"> 8. Additional Plans</a></h1>
+  <p class=InfoBlue>Additional plans if required by contract or regulations.</p>
+  <h1><a name="_Toc447095932"></a><a
+name="_Toc184473619"> 9. Annexes</a></h1>
+  <p class=InfoBlue>Additional material of use to the reader of this plan.</p>
+  <h1><a name="_Toc447095933"></a><a
+name="_Toc184473620"> 10. Index</a></h1>
+  <p class=InfoBlue>The IEEE format has an index, but you don't have to generate 
+    one.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+# Week1 Outline
+
+## Objectives
+
+Go over Objectives in Course-Outline.txt
+
+### Topics for This Week
+
+1. Course overview and objectives, effort, evaluation.
+2. Software project success and failures
+3. What is a software process?
+   * Benefits of a defined software process
+   * Vocabulary and elements for a software process model.
+4. Introduction to common software processes.
+5. Planning. Importance of planning and tracking progress against plan.
+6. Planning practices and artifacts (SDP and WBS).
+7. Discussion: your software process and practices.
+
+
+### Process Concepts
+
+* Products or Work Products
+* Artifacts
+* Activities
+* Roles
+* Phases or Stages
+* Measurements and Metrics
+* Milestones
+
+
+### Assignment
+
+1. Login to lms.ku.ac.th and
+  * verify you are registered for this course, or self-register
+  * update your profile. You must have correct name, nickname, email, and a good quality photo that clearly shows your face (at least 40% of photo height).
+
+2. Login to Github and
+  * update your profile, as needed. You must have correct name, nickname, email, and good quality photo clearly showing your face.
+
+3. Individual preferences survey (google docs)
+
+4. Individual evaluation of ExceedVote
+   * successful?
+   * defects: missing features or bugs. Includes all work products (executable, documentation, source code).
+   * practices contributing to success
+   * difficulties and suggestions for improvement
+
+5. Research and select one or more tools you will use for recording your effort (time) and work products.  ProcessDashboard is one possible tool, but requires use of a computer and output may not be convenient for you.
+
+### Activity (Lab)
+
+1. Team retrospective of ExceedVote
+
+2. Peer review of a work product
+
+## Topic: Course Overview and Requirements
+
+* The Course-Overview.txt document in root directory lists topics we will cover.
+
+* Requirements document in root directory lists requirements for your work.
+
+### Reading
+
+* _Development Process_, UML Distilled, Chapter 2.  Martin Fowler explains why a process is useful and his suggestion for how to learn one. **Note:** Fowler mentions one weakness of the waterfall process. 
+* Process Roles and their responsibilities.
+

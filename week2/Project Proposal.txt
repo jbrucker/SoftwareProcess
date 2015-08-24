@@ -1,0 +1,89 @@
+<h2>Project Proposal</h2>
+
+<p>
+Individually or with a group of up to 4 people, create a proposal
+for a software project for this course.
+The project you work on may not be the one you propose,
+and the team may not include everyone writing a proposal.
+The instructor will choose which project proposals to implement and team assignments.
+</p>
+
+<h3>Guidelines for Project</h3>
+
+<ol>
+<li>
+Can be completed in one semester by a team of 5-9 students.  
+For a larger team, the project will be divided into components.
+</li>
+<li>
+Architecture consists of at least 2 components that can be developed simultaneously
+by a few members of the team, and/or uses component(s) produced by a different team.
+This isn't a <em>requirement</em>, but a desirable characteristic.
+</li>
+<li>
+Project should not be trivial, but not too hard, either.
+The emphasis is on applying software process practices to your work
+rather than stretching the limits of your technical skills.
+</li>
+<li>
+Requires some domain-specific knowledge, but not so much that it becomes mainly a research project.
+</li>
+<li>
+The project can be an enhancement of an existing software product.
+</li>
+<li>
+The project can be related to a project you must do for another course,
+which will give you more time to devote to it.
+In this case, you must follow the process(es) of this course and meet
+the deadlines for iterations/deliverables from both courses.
+<p>
+If your project is related to another course, please discuss it with me.
+</p></li>
+</ol>
+
+<h3>Project Proposal</h3>
+
+Create a project proposal by next week.
+The proposal should include:
+<ol>
+<li>
+General description of your proposed project.
+</li><li>
+Background, Opportunity, and Need.  As in the Vision Templete from SS&amp;D.
+<ul>
+	<li> Why do you want to do this project?  Is it related to work for another course?
+</li></ul>
+</li><li>
+Vision of the Solution
+	<ul>
+	  <li>More detailed description of your product. Include images where appropriate.
+(A <em>Vision</em> should be <em>visual</em>.)
+	  </li><li>Major features you will produce.
+	  </li><li>Dependencies.  Does it use results of another project?  Use existing services?
+	</li></ul>
+</li><li>
+Resources.
+	<ul>
+	  <li>How many people does this project need?
+	  </li><li>What <em>skills</em> does this project team require?
+	</li>
+        </ul>
+</li>
+<li>
+External dependencies, if any.
+</li>
+</ol>
+
+
+<h3>What to Submit</h3>
+<ol>
+<li>A <b>printed copy</b> in class next week.  If multiple people work on the
+proposal, just submit one copy with all your names in it.
+</li><li>Online document in Google Docs.
+	<ul>
+	<li>Grant read/write access to jebrucker@gmail.com, so I can comment on it.
+	</li><li>Enter the URL of the Google doc into the space below this assignment. 
+	</li>
+</ul>
+</li>
+</ol>

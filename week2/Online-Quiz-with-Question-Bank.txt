@@ -1,0 +1,117 @@
+<h2>Introduction</h2>
+
+This project is to produce an application for online reviews, quiz, and online game 
+that can be used for different subjects.
+The main features and uses are:
+<ul>
+<li>
+Participants can use it individually to answer questions, as a way of reviewing and testing their understanding.
+<li>
+Instructor can create quiz(zes) of questions for assessing students.  The scores of respondants are tracked and can be viewed by instructor.
+<li>
+An online Jeopardy-style game, where multiple participants play against each other.  A Jeopardy game can be played by people in the same location or different locations, but in either case everyone sees the same Jeopardy board and questions. The Jeopardy game allows people to simple view (but not participate in) the game, and can have a human moderator or be entirely automatic.
+<li>
+An optional feature, if time permits, would be a league or staged Jeopardy competition. Like in a sports league, players in a Jeopardy league compete against each other and the results influence their rank in the competition, culminating in finals, and an ultimate winner.
+</ul>
+
+<h2>Background and Need</h2>
+
+<p>
+The immediate application for this project is at Kasetsart U. as a tool 
+for Object-Oriented Programming, 
+to help (and motivate) students learn the material better.
+<p>
+There are many online quiz games, including online versions of Jeopardy.
+Some features of this application that differentiate it from others are:
+<ul>
+<li>question bank of user-contributed questions, and rating of question by difficulty
+<li>HTML formatting instead of plain text
+<li>Jeopardy game can be played in one location or many
+<li>Jeopardy game allows spectators (non-contestants) to watch in near real-time
+</ul>
+
+<h2>Major Features</h2>
+
+The application has several components.
+The components provide services to each other.
+<dl>
+<dt>C1. Question Bank</dt>
+<dd>
+Members can submit questions and answers, or modify existing questions, in a question bank.  Questions are organized by subject and topic within a subject, have a difficulty rating, and access to them may be controlled (such as public or restricted to a quiz). 
+Questions have different types, such as type-in answer, multiple choice, and true/false. There is also a mechanism for reviewing questions and eliminating duplicates or unsuitable questions.
+</dd>
+<dt>C2. Question Format and Security</dt>
+<dd>
+For portability and flexibility, questions/answers will be stored as HTML.
+For security and robustness, restrictions must be placed on HTML content.
+For example, disallowing Javascript and hyperlinks. Images <em>may</em> be allowed but only for images uploaded as part of the question and verified by the application.
+A wyziwyg HTML editor (like TinyMCE) can be used to enter questions with formatting.
+The application will verify and sanitize HTML both for validity and to prevent malicious use.
+</dd>
+<dt>C3. Online Reviews</dt>
+<dd>
+Members can review a subject or topic individually, by answering questions online. Their performance over time is recorded as an aid to self-assessment, and the questions they answer correct/incorrectly are recorded for focusing on unknown material, and avoid boring repetition of known material.
+</dd>
+<dt>C4. Online Quiz</dt>
+<dd>
+An instructor can select questions for an online quiz and control when/how the quiz can be assessed, such as start time, end time, and maximum duration.  The instructor may restrict
+assess to certain questions so they only appear on the quiz (not on reviews or games),
+and can view reports showing a) who took the quiz, b) time and IP address of quiz attempts, c) results for each participant in the quiz.
+</dd>
+<dt>C5. Jeopardy Game</dt>
+<dd>This is probably the most exciting feature.
+The application has an online Jeopardy game (see references) played by multiple players,
+either colocated or remote (can play from anywhere).
+When a game is announced, players can join the game; for a moderated game, the moderator can select which application are contestants.  When a Jeopardy question is shown, 
+any contestant who thinks he knows the answer presses a button as quickly as he can.
+The contestant who presses first gets first try at answering. If he is correct he earns
+the point value of the question and gets to select the next question on the board.
+If he is incorrect he loses points, and the next contestant (if any) who has pressed
+the button gets a chance to answer.
+<p>
+Scores are visible to everyone watching the game, including contestants.  In a moderated game, the moderator can decide if an answer is correct.
+</dd>
+<dt>C6. Jeopardy Tournament</dt>
+<dd>
+A tournament is a sequence of Jeopardy games, where contestant scores are tracked to determine finalists and winners like in a sports league.
+An authorized user (e.g. course instructor) defines a tournament and may control the seeding of players in the tournament.
+</dd>
+<dt>C7. User Management and Authentication/Authorization</dt>
+<dd>
+The application has a component for managing "users" who can access the application,
+and how they are authorized.  Users can be assigned to roles (e.g. instructor).
+This component also allows assigning users to groups (such as students in OOP 2015)
+so that an instructor can select/restrict a group of users for inclusion in a quiz
+or Jeopardy game.
+<p>
+The authentication subsystem will allow different mechanisms for identifying and
+authenticating users.  The necessary ones are: a) LDAP using KU's LDAP directory,
+b) IMAP for authenticating against an IMAP server (also for use at KU),
+and 
+c) OpenID or OAuth (OAuth 2 includes OpenID) for any standard OAuth or OpenID provider,
+such as Google.
+<p>
+The User Management components provides ability to list users and authenticate users
+to the other parts of the application, so the function is not duplicated.
+</dd>
+
+</dl>
+
+<h2>Service-Based Architecture and Multiple Teams</h2>
+
+<p>
+This project can be implemented by multiple teams, with each time providing one 
+component.
+The components should communicate with each other as web services using a known API
+(each team will define its own API).
+This may sound difficult, but is not and in fact simplifies development.
+<p>
+Java (and other languages) provide APIs and tools to simplify implementing web services.
+The Play framework can also be used; in Play the difference between a web application
+and a web services is that a web service returns a service-friendly format like Json or
+XML instead of web pages.
+
+
+
+
+

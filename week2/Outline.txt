@@ -1,0 +1,63 @@
+## Week 2
+
+Questions from last week?
+
+1. Objectives 
+   * understand how to create a basic project plan and work breakdown structure.
+   * introduce estimation
+
+2. Topics
+
+   Project Planning:
+   * project should have a written scope statement, with clear goals
+   * project should have a WBS
+   * define objective measures of progress
+
+   McConnell 'Rapid Development'
+   * recommended by Martin Fowler (UMLD, chapter 2)
+   * some passages to share:
+   4 Dimensions of Software Development:
+   People
+   Process
+   Product
+   Technology
+   for rapid development, you have remove impediments and maximize benefits
+   in each dimension.
+
+Question: which dimension has greatest potential impact on development speed?
+Answer: people.  Factor of 10 difference in individual programmers,
+factor of 5 in team speed. "People" factors you can influence:
+- staff selection (p. 13)
+- team organization. Tailor to match project size, product attributes, schedule
+- motivation
+
+Question: which dimension has 2nd biggest impact of development speed?
+Answer: process
+Factors you can influence via process: p. 15-16
+
+Efficient Development: figure on page 19.
+Apply _practices_ in 4 key areas (pillars)
+  1) avoid classic mistakes
+  2) development fundamentals (best practices for analysis, design, contruction, integration, and testing). Section 4.2.
+  3) risk management - 
+  4) schedule-oriented practices
+
+Classic Mistakes (chapter 3) - divided among the 4 dimensions
+
+3. Homework
+  * How will your track and record your time and effort?
+  * Early project planning is often very inaccurate.  Requirements or design
+    of solution are unknown, actual work differs from original plan.
+    * Why do early planning (plan-based approach or predictive planning)?
+  * 
+
+4. Lab Activity
+
+5. Reading
+
+* SE9 (Sommerville), ch. 23 Project Planning,
+* TSP, ch. 6 Development Planning.
+* PMBOK, section 8.2 on Project Planning (high level description).
+* RUP Software Develop Plan template.  This is the template for your project.
+
+6. Feedback

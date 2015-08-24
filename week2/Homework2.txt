@@ -1,0 +1,54 @@
+<html>
+<body>
+<p>
+Please answer these questions by creating a Google Document for your answers
+and share it (r/w) with jebrucker@gmail.com.  Enter a link to the document
+in the space below.
+</p>
+
+<ol>
+<li>
+In this course you will keep track of the time you spend on
+project-related work, along with comments, for your own review.
+For project-related work you should record:
+<ul>
+<li>date
+<li>time spent
+<li>task or activity
+<li>work product (what you worked on)
+<li>comments
+</ul>
+
+<p>
+You can record this information using a software tool (app),
+a document (file), or on paper, whatever you prefer.
+If you use software, it should be able to create a report
+containing the info listed above, which you will submit 
+(either on paper or electronically) every few weeks.
+In the TSP book, this information is written on form "LOGT" (p. 409),
+although the LOGT form contains more detail than required.
+<p>
+Please describe below how you plan to track your effort.
+If you recommend a software tool, please include a URL 
+and reason why you recommend it.
+</li>
+
+<li>
+In a planned-based approach (this is, prescriptive planning)
+to software project management, the development process is planned
+in detail, including the work to be done, schedule, and work products.
+What are the pros and cons of this approach?
+</li>
+</ol>
+
+<p>
+These sources may help to answer question 2:
+<ul>
+<li><em>Rapid Development</em>, "Planning" section in chapter 4 and all of chapter 7.
+<li><em>Team Software Process</em>, chapter 5 "Development Planning".
+<li>Sommerville, <em>Software Engineering</em>, section 23.2 on Project Planning.
+<li>Fowler, <em>UML Distilled</em>, chapter 2.
+</ul>
+
+
+

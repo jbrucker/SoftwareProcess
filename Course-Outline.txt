@@ -1,0 +1,125 @@
+## Objectives
+
+1. Improve the success of your software projects by applying software process methods and practices.
+
+2. Be able to choose or design a process for a software project to make the project more efficient, predictable, timely, and producing a high quality product that fulfills the client's requirements.
+
+3. Understand the purpose of process elements and practices and how they affect project outcomes. Be able to apply process elements and practices.
+
+4. Develop capacity for professional improvement by measuring and analyzing your own process, habits, and work products.
+  As Steven Covey taught, maintain a "P/PC balance".
+
+### What are we going to cover?
+
+1. Intro to what a software process consists of.
+
+2. Some common software development process models.
+
+* Waterfall
+* RUP and its variants
+* Iterative and incremental (which you already used)
+* Agile, such as Scrum and XP (primarily concerned with implementation cycle)
+
+3. Focus on:
+
+* the purpose of a software process, 
+* the benefits of software process elements
+* a conceptual view of a process
+* key process areas (planning, testing, configuration management, reviews, measurements)
+* important practices in these areas
+* tools to help apply practices efficiently
+
+4. Key Practices in these areas:
+
+* Project Planning (see McConnell or CHAOS report for importance of this)
+    * Estimation
+    * Scheduling
+    * Roles & Responsibilities
+    * Writing a SDP (aka SPMP)
+* Requirements Management
+* Project Monitoring and Control (project tracking)
+* Configuration Management
+* Measurement & Analysis
+* Quality Assurance for Project and Process
+* Verification 
+
+5. Different "situations" are best suited to different processes.  
+Factors include: nature of project, customer, team, and organization.
+
+We'll study strengths and weaknesses of different processes, 
+and results of industry experience.
+The book _Balancing Agility and Discipline_ by Boehm and Turner is the
+main source for this topic.
+
+### Student Effort
+
+* Read the assigned docs
+* Do individual assignments and submit on time
+* Apply your team and individual process(es) to assigned work
+* Record your effort accurately and consistently for all project work.
+* Submit individual activity reports, approx. every 2 weeks
+
+### What you must do consistently
+
+You should consistently follow the development process, as defined.
+In particular:
+
+1. _Plan_ before doing.
+2. _Measure_ your effort accurately and consistently.
+    * time spent on tasks and activities
+    * work products (produced, modified, or reviewed)
+    * defects
+3. _Review_ your products, process, and performance.
+    * review code and documents: desk check, walk-through, inspection
+    * review performance: time usage, defects injected or removed
+    * review process
+4. _Test_ your work products.
+5. _Document_
+    * plans
+    * requirements, design, architecture
+    * work products
+    * performance
+
+### Tools for Course
+
+* lms.ku.ac.th - syllabus, assignments, feedback
+* github.com - submit programming work
+* google docs for submitting electronic documents (maybe)
+* discussion group.  Haven't selected yet. Can be Moodle, Google Groups, or other.  Not Facebook.
+
+### Tools for Projects
+
+In addition to Github, you'll use other tools.
+For example, IDE, issue tracking, defect reporting, testing, continuous integration.
+
+In some cases, the whole class will use same tools (for consistency).
+In other cases, you and your team can select tools you prefer.
+
+### Evaluation
+
+1. How well you follow the process.
+2. Participation is class, lab, and project work.
+3. Accuracy, completeness, and quality of individual work, measurements, and activity reports. 
+4. Correctness of English in written work.
+4. Evidence of effort on project work.
+5. Level of understanding exhibited on quizzes and exams.
+
+Grade depends VERY LITTLE on the team's final software product.  But, if the product is defective that is evidence of failure to really perform key practices.
+
+### Grading
+
+Same grade for both lecture and lab course.
+
+Based on:
+   participation in lecture and labs
+   assignments, including performance report
+   quizzes
+   exams
+   project work
+
+Approximate Grading scale:
+   85% and above     A
+   75%-85%           B
+   65%-75%           C
+   55%-65%           D
+   less than 55%     F

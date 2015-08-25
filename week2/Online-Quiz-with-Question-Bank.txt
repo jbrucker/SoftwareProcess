@@ -7,11 +7,11 @@ The main features and uses are:
 <li>
 Participants can use it individually to answer questions, as a way of reviewing and testing their understanding.
 <li>
-Instructor can create quiz(zes) of questions for assessing students.  The scores of respondants are tracked and can be viewed by instructor.
+Instructor can create quiz(zes) of questions for assessing students.  The scores of respondants are recorded and can be viewed by instructor.
 <li>
 An online Jeopardy-style game, where multiple participants play against each other.  A Jeopardy game can be played by people in the same location or different locations, but in either case everyone sees the same Jeopardy board and questions. The Jeopardy game allows people to simple view (but not participate in) the game, and can have a human moderator or be entirely automatic.
 <li>
-An optional feature, if time permits, would be a league or staged Jeopardy competition. Like in a sports league, players in a Jeopardy league compete against each other and the results influence their rank in the competition, culminating in finals, and an ultimate winner.
+An additional feature, if time permits, would be a league or staged Jeopardy competition. Like in a sports league, players in a Jeopardy league compete against each other and the results influence their rank in the competition, culminating in finals, and an ultimate winner.
 </ul>
 
 <h2>Background and Need</h2>
@@ -19,7 +19,7 @@ An optional feature, if time permits, would be a league or staged Jeopardy compe
 <p>
 The immediate application for this project is at Kasetsart U. as a tool 
 for Object-Oriented Programming, 
-to help (and motivate) students learn the material better.
+to help (and motivate) students learn the material.
 <p>
 There are many online quiz games, including online versions of Jeopardy.
 Some features of this application that differentiate it from others are:
@@ -50,7 +50,7 @@ The application will verify and sanitize HTML both for validity and to prevent m
 </dd>
 <dt>C3. Online Reviews</dt>
 <dd>
-Members can review a subject or topic individually, by answering questions online. Their performance over time is recorded as an aid to self-assessment, and the questions they answer correct/incorrectly are recorded for focusing on unknown material, and avoid boring repetition of known material.
+A person can review a subject or topic individually by answering questions online. His/her performance over time is recorded as an aid to self-assessment, and the person's record of correct/incorrectly answers recorded for focusing on unknown material, and avoid boring repetition of known material.
 </dd>
 <dt>C4. Online Quiz</dt>
 <dd>
@@ -100,8 +100,8 @@ to the other parts of the application, so the function is not duplicated.
 <h2>Service-Based Architecture and Multiple Teams</h2>
 
 <p>
-This project can be implemented by multiple teams, with each time providing one 
-component.
+This project can be implemented by multiple teams or a very large team.
+Either way, the development should be divided into the components.
 The components should communicate with each other as web services using a known API
 (each team will define its own API).
 This may sound difficult, but is not and in fact simplifies development.

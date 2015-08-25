@@ -1,0 +1,13 @@
+## RUP Online Process Docs
+
+* http://sce.uhcl.edu/helm/rationalunifiedprocess/ (2001)
+* http://www.ts.mah.se/RUP/RationalUnifiedProcess/
+
+http://www.ts.mah.se/RUP/RationalUnifiedProcess/process/modguide/md_prpln.htm
+
+ 
+## Online Education
+
+* [Software Dev. Process- From Idea to Product](https://www.udacity.com/course/software-development-process--ud805) free online course at Udacity, based on Georgia Tech Course.
+* [Software Dev. Process: Engineering Concepts and Practice (MS CS6300)](https://pe.gatech.edu/courses/ms-cs-6300-software-development-process-software-engineering-concepts-and-practice-noncredit) course at Georgia Tech. Paid content.
+* [Software Process Review Course (IEEE)](http://www.computer.org/web/education/software-process-online-course) paid course.

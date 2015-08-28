@@ -101,8 +101,8 @@ In other cases, you and your team can select tools you prefer.
 2. Participation is class, lab, and project work.
 3. Accuracy, completeness, and quality of individual work, measurements, and activity reports. 
 4. Correctness of English in written work.
-4. Evidence of effort on project work.
-5. Level of understanding exhibited on quizzes and exams.
+5. Evidence of effort on project work.
+6. Level of understanding exhibited on quizzes and exams.
 
 Grade depends VERY LITTLE on the team's final software product.  But, if the product is defective that is evidence of failure to really perform key practices.
 

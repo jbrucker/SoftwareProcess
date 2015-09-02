@@ -1,0 +1,174 @@
+General Feedback:
+
+Many of the proposals...
+
+- lack of clear background info or references
+- proposal is too brief, lacks description of features, or poorly written
+- the desired product is also vague (lack of clarity on stakeholder wants)
+- very limited set of features (scope). They could be implemented by 1 person.
+- several proposals are poorly written. Basic punctuation and grammar
+  errors you should have corrected. Shows lack of review or proof-reading.
+
+
+HomeWork (Home Workout) - NOT APPROVED due to poor proposal
+Muninthorn Thongnuch 5610545765
+Runyasak Chaengnaimuang 5610545781
+I think the complexity/scope is too small.
+Proposal is too brief, and not many requirements.
+Don't use Q&A style writing in proposal.
+
+Trainer+ - NOT APPROVED
+Sorrawit		Chancherngkit	5610545811
+Thanachote		Visetsuthimont	5610545692
+Thanaphon		Ketsin			5610546729
+Worapon		    Olanwanitchakul	5610546290
+Kittinan 		Napapongsa		5610546681
+Project needs 2 "image, infographic designers" and 2 domain experts:
+too many non-development/non-test personnel for this course.
+Getting and inputting enough data to make this useful will be
+significant work, but not really helpful for learning to apply software process.
+Maybe too much research effort.
+Original proposal had many grammar and some logic errors; I corrected some.  
+Successful weight loss program is not as simple as calorie counting 
+(which doesn't work in long term). 
+Successful health improvement based on diet is even more complex.
+Refs: "Healthy for Life" by Dr. Ray Strand, 
+      "Eat Right, Live Longer" by Dr. Neal Bernand.  
+Search "glycemic load".
+
+Manga.read - NOT APPROVED
+Jiratchaya	Intaragumhaeng	5610546702
+not sure about the complexity of this one. An OOP student
+wrote a Manga reader that uses RSS feed and caches manga content, 
+and did it in 2 weeks without a plan.
+
+Stock Trading - NOT APPROVED, due to need for 3 knowledge engineer and too much
+knowledge research.
+Nut Kaewnak 5610545676
+Supason Kotanut 5610546800
+Piyaphat Tulakoop 5610545731
+
+A good project for KM or Machine Learning but not this course.
+The vision of product and how it will be used are not clear.
+Problem getting data other than price quotes.
+how will you get the real-time quotes and 56.1 filings?
+Managing stock data and creating charts is moderate complexity,
+but generating non-trivial stock trading rules is a research project.
+How will user create his own rules?  Some apps (like ThinkOrSwim) have
+their own language for this, but its not easy.
+
+Cristina Cuisine - NOT APPROVED, but nicely written proposal
+Chinnaporn 	Soonue 			5610546231
+Chonnipa 	Kittisiriprasert 		5610546222
+I think its too simple. The complexity is mostly
+related to recipe database.  
+Proposal is very well written, except some grammar
+and punctuation errors. "Other Requirements" section
+has poor content, though.  Many of them are either
+obvious ("vulnerability of database must be protected")
+or redundant. 
+
+Food For Fun - NOT APPROVED. Too simple and proposal in insufficient.
+Don't use Q&A style for things I asked in written proposal.
+5410545044 	Waranyu	Rerkdee 	
+5410545052	Supayut	Raksuk 	
+5410546393	Akkarawit	Piyawin	
+5410547594	Nachanok 	Suktarachan 	
+
+Bike - NOT APPROVED based on poor writing and personnel requirements.
+Niti			Petcharatmora	5610545013
+Perawith		Jarunithi		5610546281
+Nathas		Yingsukamol	5610546753
+
+Major features are vague.  
+Not clear about the complexity or what is successful product. 
+Too many non-developers: 3 image/infographic designer, 2 domain expert,
+1 product owner. 
+Proposal is poorly written.  Looks like you didn't proof-read it.
+
+Bike for Mor - NOT APPROVED
+Nichamon	Han-idhikul		5610545684
+Vasupol	Chatmethakul		5610546788
+This is useful but has been done several times already (senior projects).  
+Problems are: a) depends too much on hardware integration,
+b) proposal is too brief, just 1.5 pages with 3 vague features.
+Don't use Q&A style in written proposal for standard items,
+e.g. "How many people does this project require?".
+ 
+Come To Me - NOT APPROVED
+Nara Surawit , 
+Wuttipong Khemphetjetsada
+Scope/complexity is too limited. 
+Proposal is not well written. Don't use Q&A writing style.
+
+Bookren - CONDITIONALY APPROVE WITH CHANGES
+Scope/complexity is too limited. OK if expand to a) match
+features in Generic Ecommerce, b) allow anyone to lend/share books.
+See below.
+Mr. Punpikorn	Rattanawirojkul	5610545722
+Mr. Pongsachon	Pornsriniyom		5610545749
+Miss Mintra		Thirasirisin		5610546761
+Mr. Pekka		Liukko			5810041213
+
+Some of the "Major Features" aren't features, they are just variations
+on a use case.
+I may allow this project if you can expand the features and scope.
+Revise it to (say) "Book Buddy". 
+Features:
+ * both individuals and shops can offer books
+ * books can be for sharing, rent, or sale.
+ * when a user searches for a book, only books that he could possibly rent, borrow,
+   or buy are shown.  That is, if a supplier only rents/loans/sells to "friends"
+   or users with a good reputation, and this user doesn't qualify, then he doesn't
+   see books that he doesn't qualify for.
+ * can search by proximity, so only suppliers within a given distance of your
+   location are shown
+ * the supplier can offer books to anyone or just to "friends" or users with good reputation
+ * use Facebook and Google to discover friends
+ * user reputation: how reliable is the user for returning books,
+   and taking care of borrowed books?  Book suppliers can rate a user they have rented to.
+ * provide inventory tracking (books in stock, rented, loaned out, or sold)
+ * provide rental/loan tracking with due date notification
+ * REQUIRED: automatic lookup of book details based on ISBN or partial book title. 
+   User inputs ISBN number or part of title and system fetches book information. 
+   (This will require using a web service.)
+ * Software must provide a documented way for adding new book lookup services
+   without modifying the existing application.  Just change a configuration value.
+
+Berlem Commart - CONDITIONALLY APPROVE: ok if scope/features are expanded to
+include all requirements in Generic E-commerce.
+ Patawat Watakul 5610545714
+ Nathakorn Sukumsirichart 5610545668
+ Nabhat Yuktadatta 5610546711
+ Kittipat Promdirek 5610546699
+
+ Basic e-commerce app for buying a "build to order" computer.
+ Proposal OK.
+ English is OK.
+ Needs more requirements (scope).
+
+Social Network -?
+ Manatsawin
+ Proposal OK.
+ English is good.
+
+Shoppa - this is quite similar to "Market" proposal. Combine them.
+Tanatorn Assawaamnuey 	5610545048
+Thanyaboon Tovorapan 	5610546745
+Varis Kritpolchai 		5610546770
+Not many features in proposal.
+Writing is OK.  I don't see why need "Algorithm design" skill
+(everyone should know basic algorithms).
+
+Market - online marketplace for mutiple stores.
+A standard e-commerce app with multiple stores and location information,
+so a customer can choose the closest or preffered store from among those
+with his product.
+
+
+
+
+
+
+
+

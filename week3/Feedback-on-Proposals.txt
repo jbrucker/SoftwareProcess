@@ -87,7 +87,7 @@ Thanaphon		Ketsin			5610546729
 Worapon		    Olanwanitchakul	5610546290
 Kittinan 		Napapongsa		5610546681
 Project needs 2 "image, infographic designers" and 2 domain experts:
-too many non-development/non-test personnel for this course.
+too many non-Software Engineering personnel for this course.
 Getting and inputting enough data to make this useful will be
 significant work, but not really helpful for learning to apply software process.
 Maybe too much research effort.

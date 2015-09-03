@@ -58,6 +58,12 @@ include all requirements in Generic E-commerce.
  Manatsawin
  Proposal OK.
  English is good.
+ It would be nice to have a social network that facilitated something *other*
+ than posting conversations, photos, and chatting. It would also be nice to
+ not re-invent services, like photo sharing, if you can adapt or embed an
+ existing service in your application.
+ Can fitness or weight management be a social activity? (counciling and peer
+ support).
 
 == Shoppa - this is quite similar to "Market" proposal. Combine them.
 Tanatorn Assawaamnuey 	5610545048
@@ -123,6 +129,7 @@ their own language for this, but its not easy.
 == Cristina Cuisine - NOT APPROVED, but nicely written proposal
 Chinnaporn 	Soonue 			5610546231
 Chonnipa 	Kittisiriprasert 		5610546222
+
 I think its too simple. The complexity is mostly
 related to recipe database.  
 Proposal is very well written, except some grammar

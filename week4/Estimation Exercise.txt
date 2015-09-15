@@ -1,0 +1,7 @@
+How Long to Completely write Vision document? (man-hours)
+
+
+How long to write SRS? (man-hours)
+
+
+don't forget review time

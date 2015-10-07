@@ -1,6 +1,7 @@
-outline.*
-Outline.*
-Outline.txt
+outline*
+Outline*
+Outline*.txt
+Outline*.md
 # wiki is a separate repository
 wiki
 wiki/*

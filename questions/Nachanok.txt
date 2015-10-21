@@ -1,0 +1,26 @@
+Create 4 questions with answers
+Nachanok Suktarachan 5410547594
+My role is PMC
+1.Assume situation : If you are PMC and some people in your group do the task not following thier role
+and sometime (Some week) He/She didn't do anything, hasn't any responsibility with his/her task.
+Q : What PMC should do about this situation? and how can you solve this problem? where is the place you will report to?
+A : Should write report on weekly activity report and aleart him/her to response with the task or do the right task that relate with thier role.
+When the meeting, you should discuss about this situation after meeting or before meeting to report them and solve problem together.
+Don't thinking by yourself.Because you need some comment from each other and maybe better way to solve this problem.
+
+2.Q: As a PMC.After summary Weekly activity report what you should do?
+A: - Check the task that member do it is a real not fake a task and time.
+   - Check milestone the task will achive or not.
+   - Write comment. Any comment to improve product and process quality.
+
+3.Q: What the difference with TSPi process and infrosys deveopment process [Book : TSPi chapter1,Software process management in pratice chapter 3]
+A: TSPi is the work process that develop as a cycle to release new version.
+By produce a development strategy, Picking the smallest reasonable base to develop, estimate the size of functions you plan to each subsequent cycle.
+Most garantee complete working initial.
+Infrosys developmemt process is resemble waterfall model and broken inter small phase and stages.
+
+4.Q: Tell 3 Basic teamwork condition process and explain [Book : TSPi chapter2]
+A: 
+   1. The task to be done and clear and distinct; (¡¹ª¨ : ¡ÓË¹´ªÑ´à¨¹) That is the job for teamate explicitly, The work in meanningful to the team,and the goup knows what its must todo.
+   2. The team is cleary identified; (¹·ª¨:Ë¹éÒ·ÕèªÑ´à¨¹) The member know scope of the group,who is in it, who is not. Everyone knows everyone else's team role
+   3. The team has control over its task; The member knows what to do,how to do, when to do,when finish.Response the work and control the process they use.

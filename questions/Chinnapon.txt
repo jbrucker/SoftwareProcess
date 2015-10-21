@@ -1,0 +1,42 @@
+1. In term of developer, what are the most three important things that the team leader must be considered to assign tasks to each team member?
+
+Ans:
+- Personal interests
+- Personal capabilities
+- The opportunity to hone their skill
+
+Ref:
+Team Software Process (TSP) Body of Knowledge (BOK), Page 129, D4.5 Developing team members
+
+2. To make a plan, what are two important things that team leader must pay attention to the balance of these things?
+
+Ans: 
+- Motivation
+- Possibility
+
+Ref:
+Team Software Process (TSP) Body of Knowledge (BOK), Page 127, D2.2 The team leader’s role in making a team plan 
+
+3. What is the main procedure of test-driven development?
+
+Ans:
+  1. write a failing test
+  2. write the code that makes the test pass
+  3. refactor the code 
+
+Ref:
+MANAGING SOFTWARE DEBT - Sterling, Page 68, Test-Driven Development (or Design?)
+
+4. Which phase in RUP that we should define clear business modeling? And, what is the goal of business modeling?
+
+Ans:
+Inception phase
+The goal of business modeling:
+1. To understanding the business structure and dynamics
+2. To ensure that customers, end users, and developers have a common understanding of the organization
+3. To derive system requirements to support the organization
+
+Ref:
+Rational Unified Process, The: An Introduction, Third Edition By Philippe Kruchten, Figure 3-5. Nine core disciplines
+
+Chinnaporn Soonue 5610546231

@@ -1,0 +1,27 @@
+What are not responsibilities of developer?
+	A. Method of deployment
+	B. Supporting document in live use
+	C. Testing the output of their own work
+	D. Technical testing as a whole
+Answer: D
+Reference: http://www.dsdm.org/content/7-roles-and-responsibilities
+
+Which is the reason that developers test the code?
+	A. Developers must make sure that the code work properly.
+	B. Developers must make sure when code merging have no bug.
+Answer: A
+Reference: http://www.scaledagileframework.com/developers-and-testers/
+
+Which is the reason of RUP that separate to many iterations?
+	A. Efficient delivery process
+	B. Support waterfall process
+Answer: A
+Reference: http://benefitof.net/benefits-of-rational-unified-process/
+
+Which phase in RUP that the objective is to build the software?
+	A. Construction phase
+	B. Elaboration phase
+Answer: A
+Reference: https://en.wikipedia.org/wiki/Rational_Unified_Process
+
+Thanachote Visetsuthimont 5610545692

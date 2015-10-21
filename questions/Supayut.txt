@@ -1,0 +1,15 @@
+Supayut Raksuk	5410545052
+
+1. Project managers typically plan for the following tracking.(Jalote, Software Project Management in Practice, chapter 7)
+
+Answers : Activities tracking, Defect tracking, Issues tracking.
+
+2. What's the basic goal of effort estimation (Jalote, Software Project Management in Practice,)
+
+Answers : effort estimation is to generate resonable estimates that will work most of the time
+
+3. Draw the project monitoring and control cycle
+
+Answers : (Jalote, Software Project Management in Practice, figure11.1)
+
+4. 

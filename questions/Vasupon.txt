@@ -1,0 +1,56 @@
+VASUPOL CHATMETHAKUL 
+B5610546788 
+
+QUESTION 1:
+
+WHAT IS A WALK THROUGH AND WHY IS IT IMPORTANT TO PPQA?
+A walk through is an informal code review between peers where the programmer
+guides any members of the development team through their software product. This
+is important to PPQA because it allows them to specifically check for coding 
+standards and correctly understand the code for evaluation.
+http://cmmi.de/cmmi/process-and-product-quality-assurance-ppqa-cmmi-dev
+
+QUESTION 2:
+
+WHAT IS THE PPQA ROLE IN THE EARLY STAGES OF RUP?
+During the early stages there is no coding yet so there is no process to evaluate.
+In this time the PPQA must work with other roles to establish the coding standard,
+quality assurance plan, and processes that will be used in the elaboration phase 
+and beyond.
+http://cmmi.de/cmmi/process-and-product-quality-assurance-ppqa-cmmi-dev
+
+QUESTION 3:
+
+Pick the best answer: 
+THE PROGRAMMERS ULTIMATELY DETERMINE WHICH FEATURES TO DO FIRST JUDGING FROM 
+THE IMPORTANCE GIVEN BY THE CUSTOMER WHILE DISREGARDING THE RISK.
+1. False, the RUP process is risk-driven when it comes to the iterations, so 
+programmers ultimately determines the features through estimated risks.
+2. True, the customer determines the iterations so they can see the early product
+with the features as soon as possible.
+3. False, the features are determined solely based on time.
+4. False, the programmers will do what they feel like should be done first based
+on experience.
+Answer = 1
+http://www.nyu.edu/classes/jcf/CSCI-GA.2440-001/handouts/PlanningProjWithRUP.pdf
+pg. 4 Characteristics of RUP Project
+
+QUESTION 4:
+
+Pick the INCORRECT answer:
+WHICH OF THESE CHARACTERISTICS DOES NOT CONTRIBUTE TO THE DIFFICULTY OF ESTIMATING
+PROJECT SIZE?
+1. Invisibility — Progress isn’t as visible as it is when building a bridge or a factory.
+2. Complexity — Software development seems to be inherently more complex than other 
+engineering processes. 
+3. Marketability — Software has to be marketable, so it has to be analyze for the market
+size
+4. Flexibility — Software is inherently easy to change.
+Answer = 3
+http://www.nyu.edu/classes/jcf/CSCI-GA.2440-001/handouts/PlanningProjWithRUP.pdf
+pg. 6 Estimating Project Size referencing The Mythical Man Month by Fredrick P. Brooks
+
+
+
+
+

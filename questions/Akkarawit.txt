@@ -1,0 +1,34 @@
+Akkarawit Piyawin 5410546393
+
+1.How to prepare the requirement changing?
+- A project manager decide which process is to followed for handling change request ,and 
+  the planed process is discusses with the customer are agreement about how to manage changes.
+  [Jalote, Software Project Management in Practice, section 3.2]
+
+2.What is Effort Estimation Models?
+- A Software estimation model defines the project characteristics whose values it needs and 
+  the ways these values are used to compute the effort.
+  [Jalote, Software Project Management in Practice, section 4.1]
+
+3.Defind the software testing level at least 2 level.
+- Unit testing: It is basically done by the developers to make sure that their code is working fine 
+  and meet the user specifications. They test their piece of code which they have written like classes, 
+  functions, interfaces and procedures.
+
+- Component testing: It is also called as module testing. The basic difference between the unit testing 
+  and component testing is in unit testing the developers test their piece of code but in component testing 
+  the whole component is tested. 
+
+- Integration testing: Integration testing is done when two modules are integrated, in order to test 
+  the behavior and functionality of both the modules after integration.
+  
+  [http://istqbexamcertification.com/what-are-software-testing-levels/]
+
+4.What is the cost of defects?
+- The cost of defects can be measured by the impact of the defects and when we find them. Earlier the defect 
+  is found lesser is the cost of defect.The correction to the requirement specification can be done and then 
+  it can be re-issued. In the same way when defect or error is found in the design then the design can be corrected 
+  and it can be re-issued. But if the error is not caught in the specifications and is not found till the user 
+  acceptance then the cost to fix those errors or defects will be way too expensive.
+
+   [http://istqbexamcertification.com/what-is-the-cost-of-defects-in-software-testing/]

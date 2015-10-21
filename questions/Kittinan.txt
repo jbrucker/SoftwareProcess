@@ -1,0 +1,22 @@
+INDIVIDUAL ASSIGNMENT ON SOFTWARE PROCESS KNOWLEDGE
+Kittinan Napapongsa 
+5610546681
+
+1. What is the purpose of tester?
+	- The purpose of tester is examining or finding software bugs and program defects. Another main purpose of tester is making software program can proceed with defect at least as possible.
+ref . https://en.wikipedia.org/wiki/Software_testing 
+
+
+2. What are the attribute of tester should have?
+	- They should have clearly communication for discussing with developer , understanding customer requirement clearly , discreet thinking and being observant.
+ref. http://jayacarl.blogspot.com/2010/04/software-tester-attributes.html 
+
+
+3. What is the goals of SRS ( Software Requirements Specification )?
+	- SRS is the document that mention about formal developer rules. Developer should follow the rules in that document that make developer team understand requirement and developing at the same way . SRS describe to developer team what should they develop. 
+ref. https://en.wikipedia.org/wiki/Software_requirements_specification 
+      
+
+4. Why we should have WAR ( Weekly Activity Report )?
+	- The important goal of WAR is reporting a performance, problem ,strength and weakness of each team member for know their performance and planning or adjust in the future.
+ref. http://alliancegroup.net/power-war-weekly-activity-reporting/ 

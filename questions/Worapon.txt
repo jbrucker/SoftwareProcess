@@ -1,0 +1,39 @@
+1. Why we should have Weekly Activity Report(WAR)?
+Ans : To help project manager record and see the whole picture of the project.
+Help the manager to make a decision about direction of the project.
+Should we stick to the plan, faster, slower or should we fix some problems first.
+To make a decision we need to combine every reports together. 
+
+(jalote, Software Project Managment in Practice, section 7.2 Measurements)
+
+
+2. Which one is not the PMC duty?
+
+a. Control the direction of project
+b. Defect the code error
+c. Performance reporting
+d. Quality control
+
+Ans : b (this duty belong to PPQA and Tester)
+
+(http://www.bestpractices.osi.ca.gov/project_management/monitoring.shtml)
+
+3. Which document should you start looking for, if you want to read the project description?
+
+a. Software Requirement Specification (SRS)
+b. Configuration Management Plan
+c. Vision Statement
+d. Software development plan 
+
+Ans : a  (SRS keep all the information about your project including main purpose and features.)
+
+(https://en.wikipedia.org/wiki/Software_requirements_specification)
+
+4. What is Coding Standard. Why is it important?
+
+Ans : Coding standard is an agreement between each members to coding in the same style, so that we improve readability of the source code and make software maintainance easier.
+
+(https://en.wikipedia.org/wiki/Coding_conventions) 
+
+
+Worapon Olanwanitchakul 5610546290 

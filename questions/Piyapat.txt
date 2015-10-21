@@ -1,0 +1,23 @@
+﻿Week 8 assignment
+By Piyaphat Tulakoop 5610545731
+
+1. Q: What is PDCA cycle? And where tester work should be involved in? (Ref: http://www.careerride.com/Testing-what-is-PDCA-cycle.aspx)
+A: PDCA is a four step problem solving process
+   1. P - Plan (Devise your Plan)
+   2. D – Do (or Execute) the Plan
+   3. C – Check (Check the Results)
+   4. A - Act (Take the necessary action)
+   These process can be adapted into every working process and any roles. So tester is entirely fit in this process. But in the overall process tester maybe only involved in Check step.
+
+
+   2. Q: There are 3 categories of defects. One is the Wrong defects which means the requirements have been performed falsely. What are the rest defects? And what does each meaning? (Ref: http://blog.qatestlab.com/2011/10/11/main-types-of-defects-in-software-testing/)
+A: Extra defects and the other one is Missing defects. Extra defects is mean a requirement incorporated into the product that wasn’t given by the end client. Missing defects is mean the requirement given by the client was not done
+
+
+      3. Q: What’s the difference between System testing and Acceptance testing? (Ref: http://stackoverflow.com/questions/15944902/system-testing-vs-acceptance-testing-difference-in-test-cases)
+A: Acceptance testing checks if the system will deliver what was requested.
+    System testing checks that the system was specified has been delivered
+
+
+       4. Q: There are 3 words. All of them means the mistake in the code but in different circumstance. One is mean that programmers do the mistake with confusion coding or miscalculating. Other one is mean that programmer was do programmatically mistake. And the last one is found when tester execute the testing. What are these 3 words? (Ref: http://istqbexamcertification.com/what-is-a-failure-in-software-testing/)
+A: Error, Defect and Failure

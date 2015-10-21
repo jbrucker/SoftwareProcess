@@ -1,0 +1,26 @@
+SOFTWARE PROCESS QUESTIONS
+
+1. Describe about project planning
+	Software project planning is task, which is performed before the production of software actually starts. It is there for the software production but involves no concrete activity that has any direction connection with software production; rather it is a set of multiple processes, which facilitates software production.
+(http://www.tutorialspoint.com/software_engineering/software_project_management.htm)
+
+2. What is the objective of code review?
+	- To identify defects in any software work product.
+	- Developers learning from each other, sharing knowledge and expertise.
+(http://www.guru99.com/software-testing-interview-questions.html)
+(http://stackoverflow.com/questions/968406/the-purpose-of-code-reviews)
+
+3. What are the differences between TESTER and QA?
+	QA : Prevent faults by inspecting & testing the process
+	Tester : Detect faults by inspecting & testing the product
+(http://sqa.stackexchange.com/questions/211/whats-the-difference-between-testing-and-quality-assurance)
+
+4. Why we have to do project estimation?
+	To avoid the exceeding timescales and overshooting budgets for testing activities we estimate the task. 
+(http://www.softwaretestingclass.com/software-estimation-techniques/)
+
+
+
+
+Tanatorn Assawaamnuey
+5610545048

@@ -1,0 +1,50 @@
+CHONNIPA KITTISIRIPRASERT
+5610546222
+
+1. What is different between RUP(Rational Unified Process) and AUP(Agile Unified Process)
+(2)
+
+Agile Unified Process (AUP) is a simplified version of the Rational Unified Process (RUP) developed by Scott Ambler.
+Ref:
+https://en.wikipedia.org/wiki/Agile_Unified_Process
+https://en.wikipedia.org/wiki/Rational_Unified_Process
+
+The Rational Unified Process or RUP is a detailed refinement of the Unified Process.
+Ref: Applying UML and Patterns - Larman
+[page 18] http://www.craiglarman.com/wiki/downloads/applying_uml/%20applying%20uml%20and%20patterns%20-%20larman%20-%20ch%202%20-%20iterative%20agile%20and%20evolutionary.pdf
+
+2. What are benefits of using iterative process
+(5)
+
+Compared to the traditional waterfall process, the iterative process has the following advantages:
+• Risks are mitigated earlier
+• Change is more manageable
+• Higher level of reuse
+• The project team can learn along the way
+• Better overall quality
+
+Ref: (IBM) Rational Unified Process
+[page 7] http://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf
+
+3. What are examples of problems that Configuration Management should control?
+(4)
+
+- Simultaneous Update  When two or more workers work separately on the same artifact,
+the last one to make changes destroys the work of the former.
+- Limited Notification  When a problem is fixed in artifacts shared by several developers,
+and some of them are not notified of the change.
+- Multiple Versions  Most large programs are developed in evolutionary releases.
+One release could be in customer use, while another is in test, and the third is still in development.
+If problems are found in any one of the versions, fixes need to be propagated between them.
+Confusion can arise leading to costly fixes and re-work unless changes are carefully controlled and monitored.
+
+Ref: (IBM) Rational Unified Process
+[page 13] http://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf
+
+4. How version control helps configuration management?
+(2 - previous answer was mostly related to VCS functions)
+
+Version control helps preserve older versions of the programs whenever they are changed
+
+Ref:
+[page 157] Project Management Process (Book)

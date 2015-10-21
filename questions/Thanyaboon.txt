@@ -1,0 +1,34 @@
+Thanyaboon Tovorapan 5610546745
+
+1.	What does a software architect really do?
+
+	A software architect will make the overall design (the structure) and plan (technical and operational) for a system that is to be built making sure that every aspect is covered such as security, performance, manageability and so on with the goal to build a solid system as they have significant insight into the requirements and constraints for this system from the business, users and investors.
+
+	An architect is the one who takes the blame for the quality. This is what the team needs — someone personally responsible for the quality of the software being developed. The role of a software architect is crucial for every project, even if there are just two coders working at the same desk. One of them has to be the architect.
+
+	References : 
+	http://www.yegor256.com/2014/10/12/who-is-software-architect.html
+	http://irisclasson.com/2012/07/28/stupid-question-10-what-does-a-software-architect-do/
+
+2.	What's the difference between software developer and software architect?
+
+	Becoming a software architect isn't something that simply happens overnight or with a promotion. It's a role, not a rank. It's an evolutionary process where you'll gradually gain the experience and confidence that you need to undertake the role.
+
+	There's a big difference between contributing to the architecture of a software system and being responsible for defining it yourself; with a continuum of skills, knowledge and experience needed across the different areas that make up the software architecture role. Crossing the line between software developer and software architect is up to you, but understanding your own level of experience is the first part of the journey.
+
+	References :
+	http://www.infoq.com/articles/brown-are-you-a-software-architect
+
+3.	What is the most important skill in software development?
+
+	When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity. No matter how hard is data structure or algorithm, there’s always lots of state to keep track of, rearranging of values, handling special cases, and carefully working out how all the pieces of a system interact. To a great extent the act of coding is one of organization. Refactoring. Simplifying. Figuring out how to remove extraneous manipulations here and there.
+
+	References :
+	http://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/
+
+4.	What is the most common conflict between software developers and clients?
+
+	The most common conflict is miscommunication. Part of that is because neither developer nor client really know what is needed. The best fix for this is rapid cycling through to UAT and delivery of updates at each decision point. 
+
+	Reference :
+	https://www.quora.com/Which-are-the-most-common-problems-conflicts-between-software-developers-and-clients

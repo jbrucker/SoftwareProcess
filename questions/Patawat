@@ -1,0 +1,33 @@
+1. In defect tracking, What thing PPQA should do after developer sent fixed code back to ppqa?
+	- close defect
+	- checking defect 
+	- recond defect
+	- do nothing
+
+	Answer: checking
+
+	reference: Jalote, Software Project Management in Practice, section 7.2
+
+2. Changes in requirement can come at any time in the life of a project. What adverse effect from uncontrolled changes?
+	
+	Answer: cost, schedule and quality
+
+ 	reference: Jalote, Software Project Management in Practice, section 3.2
+
+3. Why a detailed project schedule is never static?
+	
+	Answer: The actual progress may be different from what was planned.
+ 	
+ 	reference Jalote, Software Project Management in Practice, section 4.3
+
+4. If the develop may not spent enough time in review,or they did not gather data. What does ppqa should to do?
+	
+	Answer: First alert developer, if they do not respond. PPQA should discuss issue with team leader.
+
+	reference: Watts s. Humphray, Introduction to the Team software process, section 14.4
+
+
+
+		
+
+		Patawat Watakul 5610545714

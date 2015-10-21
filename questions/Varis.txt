@@ -1,0 +1,22 @@
+Software Process Knowledge
+
+1.What is software process? ​C
+  a.A well­designed software that is processing with variety of activities.
+  b.A process that is inside a software product.
+  c.A structure that is imposed on the development of a software product.
+  d.None of the above.
+
+2. E​xplain about Capability Maturity Model Integration(CMMI) models.
+​­ - CMMI models provide guidance for processes development and improvement that meet the business goals of an organization.
+
+3. What is the purpose of Process and Product Quality Assurance(PPQA)?
+­ - ​The purpose of PPQA is to provide staff and management with objective insight into processes and associated work products.
+
+4. W​hat are the differences between Process and Product Quality Assurance(PPQA) and Tester?
+­ - ​Both PPQA and Tester make the software better, but PPQA enhances the quality of the software through an improvement of development process. On the other hand, Tester enhances the quality of the software by finding bugs and also planning and preparation of the software product.
+
+References: 
+1.http://www.careerride.com/Software­Process­Interview­Questions.aspx
+2.https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+3.https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+4.http://www.software­quality­assurance.org/cmmi­process­and­product­quality­assurance.html

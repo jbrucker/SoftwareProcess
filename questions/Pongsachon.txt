@@ -1,0 +1,58 @@
+Software Process Question
+
+1.) Which one is not the outcome after the end of Elaboration Phase?
+	a.) Most of Use case model (about 80%)
+	b.) Requirement Understanding and scope of the overall project
+	c.) Software Architecture Description
+	d.) Development plan for the overall project
+
+Answer : b 
+	Because you should understand all the requirement in the Inception Phase so that you can estimate the cost and risk of the project and discuss with customer. Then, you can accept the project and analysis the requirement in the next phase.
+
+Reference : https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf
+
+
+
+2.) Based on our class, what CMMI level are we relating to divide the process area. 
+Define 3 process areas.
+
+Answer : Maturity Level 2 - Managed
+    •      CM - Configuration Management
+	•	MA - Measurement and Analysis
+	•	PMC - Project Monitoring and Control
+	•	PP - Project Planning
+	•	PPQA - Process and Product Quality Assurance
+	•	REQM - Requirements Management
+	•	SAM - Supplier Agreement Management
+
+Reference : 
+https://github.com/jbrucker/SoftwareProcess/blob/master/week1/3-Process%20Areas.ppt
+https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+
+
+
+
+3.) What is project estimation?
+Answer : It is a process to estimate various aspects of software product in order to calculate the cost of development in terms of efforts, time and resources. This estimation can be derived from past experience, by consulting experts or by using pre-defined formulas.
+
+Reference :
+http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
+
+
+
+4.) Define 3 advantages why we should perform code reviews?
+
+Answer : 	
+    •	Find and fix defects early.
+	•	Code review often proves more cost effective than testing.
+	•	Good mentoring/training/learning/team building, especially for new hires.
+	•	Gives broader experience to team members.
+	•	Makes it easier for one team member to maintain another's code.
+	•	Improve overall quality of the code.
+	•	Enforce coding standards.
+
+Reference : http://www.perlmonks.org/?node_id=776607
+
+
+Pongsachon Pornsriniyom
+5610545749

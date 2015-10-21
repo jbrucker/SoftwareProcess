@@ -1,0 +1,98 @@
+Week 8 Assignment, Software process class
+Nichamon Han-idhikul 5610545684
+
+================================================================================================================================
+
+Question 1
+
+High quality software can be defined as the software with as few defects as possible. 
+Describe the definition of defect, when the defect is injected in the project and 
+how to remove the defect to increase quality of software.
+
+Answer
+
+Defect is something that causes the software to be inconsistent with the requirements or customer needs.
+
+During working on the project, defect can be injected at any stage: 
+	- requirements specification
+	- high level design
+	- detailed design
+	- coding
+
+The defect removal is quality control activities which include:
+	- Review: requirements, document, design, code
+	- Testing: unit, integration, system, acceptance
+
+Reference: Pankaj Jalote, Software Project Management in Practice, section 5.1 
+
+================================================================================================================================
+
+
+Question 2
+
+The group review process is divided into 4 stages: planning, overview and preparation, group review meeting,
+and rework and follow-up. Describe short explanation of the activities in each of stages. 
+
+Answer
+
+	Planning
+This phase is to select the group review team and moderator, and to schedule review meeting. 
+
+	Overview and preparation
+Reviewers individually review the work product by using checklists, guidelines or standards. 
+Reviewers take notes if they find defects.
+
+	Group review meeting
+The reviewers or readers inspect work product line by line. If they find any issue or defect, 
+the team will discuss that they agree or disagree with it. The author clarifies the issue and then the issue or defect is recorded.
+	
+	Rework and follow-up
+The author rework or redo the correct work product. The author together with moderator reviews the final work product.
+
+Reference: Pankaj Jalote, Software Project Management in Practice, 
+section 10.1, 10.1.1, 10.1.2, 10.1.3, 10.1.4
+
+===============================================================================================================================
+
+Question 3
+
+In this semester, 5 SKE students need to work on a software project. The project is about a website 
+that provides the contents about project management, students need to research the content and write story board. 
+The work duration is only 7 weeks. The customer (teacher) has business in Japan so he gives requirements at the first class 
+and he will be back in next 7 weeks. Which software process should implement for this project? Explain why.
+
+Answer
+
+Waterfall development
+-	The requirements and deadline are fixed and do not change. 
+-	Customer gives feedback at the end of the project.
+-	The project is simple in terms of requirements and technologies
+-	Too many stuffs for documentation
+
+References:
+http://www.slideshare.net/MarrajuBollapRagada/agile-vs-iterativevswaterfall
+http://pm.stackexchange.com/questions/389/when-to-use-waterfall-when-to-use-scrum
+
+===============================================================================================================================
+
+Question 4
+
+Describe the objective of each phases that are used in Rational unified process.
+
+Answer
+
+	Inception phase
+To scope the system adequately as a basis for validating initial costing and budgets
+
+	Elaboration phase
+To mitigate the key risk items identified by analysis up to the end of this phase
+
+	Construction phase
+To develop the software system to the point where it is ready for deployment
+
+	Transition phase
+To deliver the system into production
+
+References:
+http://www.ambysoft.com/downloads/managersIntroToRUP.pdf
+https://en.wikipedia.org/wiki/Rational_Unified_Process

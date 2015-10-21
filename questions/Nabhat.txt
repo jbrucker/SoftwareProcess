@@ -1,0 +1,30 @@
+Nabhat Yuktadatta  5610546711
+
+
+
+1. What is the difference between an Iterative model and the Waterfall model?
+	Ans: Waterfall Model is a flow based model, when we pass each phase we can not go back to that phase again, so if there is any change in requirements, we cannot make any changes. On the other hand, Iterative Model can always come back to previous phases, and make the changes. 
+References: 
+http://nealcabage.com/waterfall-or-iterative-methodology/        
+http://www.allinterview.com/showanswers/3704/diffrence-between-iterative-model-and-waterfall-explain-prototype.html 
+
+
+2. What is baseline?
+	Ans: Baseline is a measurement of how complete of a each phase or each update, by comparing with the initial one (baseline)  with the current one. After approval this current state will act as baseline for next phrase.
+Reference: http://www.rationalplan.com/projectmanagementblog/project-management-terms-baseline/
+
+
+3. Which role has a responsibility to invent a conventions for naming and organization of files
+PPQA
+PMC
+CM
+PP
+Ans: c. CM 
+Reference: 
+Software Project Management in Practice by Pankaj Jalote
+
+
+4. If you are CM and you accidently found a defect happen in the document. Is it your responsibility to report or track down the defect in the document? 
+	Ans: No, PMC should be the one who track down those defect.
+Reference: 
+Software Project Management in Practice by Pankaj Jalote

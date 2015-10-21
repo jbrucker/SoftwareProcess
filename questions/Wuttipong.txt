@@ -1,0 +1,47 @@
+Name : Wuttipong Khemphetjetsada	Student ID : 5610545803		Role : Tester
+
+
+1. What are the procedures to the fundametal test process in software testing?
+
+answer	1.	Test planing and control
+		2.	Analysis and Design
+		3.	Implementation and test execution
+		4.	evaluting exit criteria and reporting
+		5.	test closure activities
+
+ref. http://www.experimentus.com/itm/06_00170_Fundamental_Test_Process_Summary.htm
+
+
+2. What are the main stages of analysis and design in the fundametal test process ?
+
+answer	1.	reviewing the test basis
+		2.	identifying test conditions or test requirements
+		3.	desiging the tests
+		4.	evaluating testability of the requirements and system
+		5.	designing the test environment set-up
+
+ref. http://www.experimentus.com/itm/06_00170_Fundamental_Test_Process_Summary.htm
+
+
+3. In the test log , what needs to be recorded to the log ?
+
+answer	1.	Date and time of test execution
+		2.	Result of the test (pass or fail)
+		3.	The name of the tester
+		4.	schedule for re-tests
+		5.	defect reference for failed tests
+
+ref. http://www.experimentus.com/itm/06_00170_Fundamental_Test_Process_Summary.htm
+
+
+4. What are goals of tester ?
+
+answer	1.	verification
+		2.	priority converage
+		3.	traceable
+		4.	unbiased
+		5.	deterministic
+
+ref. http://eversystems.eu/Document/18/The_Five_Goals_of_Software_Testing	
+
+

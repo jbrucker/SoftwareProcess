@@ -1,0 +1,44 @@
+1.Give at least five problems that probably make project fail.
+Answer -Requirement unclear or incomplete
+	   -Unrealistic schedule or plan
+	   -Always change
+	   -Lack of user involvement
+ 	   -Lack of resource
+https://github.com/jbrucker/SoftwareProcess/blob/master/articles/CHAOS%20report%202014.pdf
+
+
+2.Describe each phases of RUP
+Answer   Inception: Understand what to build
+   Elaboration: Understand how to build it
+   Construction: Build it
+   Transition: Validate solution 
+https://github.com/jbrucker/SoftwareProcess/blob/master/articles/Software%20Process%20in%20Practice%20(slides%2C%20Leiden%2020100914).pdf
+
+3.Explain kinds of tests and give example of test case format
+Answer   Black-box Testing
+			System is viewed as a black box. You test inputs and outputs (or responses), based on what the system should do.Should means the requirements specification.
+   		White-box Testing
+			Tests based on knowledge of the source code, and can directly exercise the API. The aim of these tests is cover as much of the source code as possible, including all possible flows.
+
+   		The general format:
+			Verify: what you want to test 
+			Using: tools, environment, url 
+			With: conditions and data 
+			To: what is to be done, shown, or returned
+
+ https://github.com/jbrucker/SoftwareProcess/blob/master/week7/Testing%20Outline.md
+
+
+4.Give examples of software development model and explain
+Answer	Waterfall model:
+			This is the oldest model. It represents sequence of stages; output of one stage becomes input of others.
+		Spiral Model:
+			This is improved version of waterfall model. Here we have scope to reiterate and go back to the earlier stages number of times as project progresses.
+		Prototyping Model
+			In this model, we develop prototype which acts like a final product. Once prototype is approved, then the actual development starts.
+		Incremental Model
+			In this model, the product is divided into sections and each section of the product are created and tested separately. 
+http://www.careerride.com/Project-Mananagement-SDLC.aspx
+cc.ee.ntu.edu.tw/~farn/courses/SE/ch4.ppt
+http://sci.udru.ac.th/websci/download/com/rewadee/Information/softwareProcess.pdf
+

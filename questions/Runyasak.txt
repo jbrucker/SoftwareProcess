@@ -1,0 +1,48 @@
+﻿Runyasak Chaengnaimuang
+5610545781
+Role: Tester
+Question about tester:
+
+
+1. Explain the reasons why software testing is necessary.
+        Ans. 
+Because humans make mistake all the time. Some errors are little or unimportant, but perhaps those can be dangerous and expensive cost to debug. So, software testing can point out the defects and errors that were made during the development phases.
+
+	Reference: 
+	- Why is software testing necessary?
+	http://istqbexamcertification.com/why-is-testing-necessary/
+
+
+2. As you know, automation testing is save time, cost and manpower than manual testing. Explain the goal of manual testing.
+        Ans. 
+The goal of manual testing is to ensure that application has no error and works in conformance to the specified requirements. This can make sure that reported defects are fixed and re-testing by testers on the fixed defects. Addition, this testing ensure the quality of the system and delivers product without defect to the customer.
+
+	Reference: 
+	- Manual Testing Tutorials for Beginners (Goal of Manual Testing)
+	http://www.guru99.com/manual-testing.html/
+
+
+Question about software process:
+
+
+3. In software cost estimation process, many of outputs come from cost estimation. What are the primary outputs that can computed as fixed number?
+        Ans. 
+	* Manpower loading - number of personnel that are allocated to the project.
+	* Project duration - time that is needed to complete the project.
+	* Effort - amount of effort required to complete the project that usually measured in unit as man-months(MM) or person-months(PM).
+
+	Reference: 
+	- Software Cost Estimation (Cost Estimation Process) 	
+	http://www.computing.dcu.ie/~renaat/ca421/report.html#5.1.2
+
+
+4. What are five of maturity levels in capability maturity model?
+        Ans. 
+	I. Initial level: a project is executed in a manner that the team and project manager see fit.
+	II. Repeatable level: defined to be able to repeat earlier successes on projects with similar applications.
+	III. Definded level: organization processes have been defined and are regularly followed.
+	IV. Managed level: requires that detailed measures are taken of the process and product, and that process and product 	are quantitatively understood and controlled.
+	V. Optimizing level: continuous process improvement is in place by using quantitative feedback.
+
+	Reference: 
+	- Jalote, Software Project Management in Practice, section 1.2.1.

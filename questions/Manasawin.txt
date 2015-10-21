@@ -1,0 +1,53 @@
+Manatsawin Hanmongkolchai / 5610545757
+
+# Question 1
+Name some agile methodologies for software project management
+
+## Answer
+- Extreme Programming
+- Scrum
+- Crystal
+- Adaptive Software Development
+- Feature Driven Development
+- Agile Modeling
+- Rational Unified Process
+
+## Source
+Software Engineering 9th edition - Ian Sommerville, section 3.1
+
+# Question 2
+What are some advantages of using iterative development process
+
+## Answer
+1. The product is broken down to several manageable chunks
+2. Unstable requirements don't hold up progress
+3. More visiblity and better communication
+4. Customer see on-time increment development and can provide feedback
+5. Increase customer trust
+
+## Source
+Software Engineering 9th edition - Ian Sommerville, section 3.4
+
+# Question 3
+What  are some of the common coding standards
+
+## Answer
+- Use consistent variable name
+- Self-document the code
+- Readable code layout
+- Use parameters
+
+## Source
+Software Engineering - Hands on Approach, section 9.8
+
+
+# Question 4
+What is opportunistic reuse and systematic reuse
+
+## Answer
+Opportunistic reuse is to reuse code of older products
+
+Systematic reuse is to craft code for future reuse
+
+## Source
+Software Engineering - Hands on Approach, section 9.9

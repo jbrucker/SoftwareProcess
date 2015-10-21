@@ -1,0 +1,30 @@
+What is the goals of CM?
+	-CM is the task of tracking and controlling changes in the software, part of the larger cross-disciplinary field of configuration management. CM practices include revision control and the establishment of baselines. If something goes wrong, SCM can determine what was changed and who changed it. If a configuration is working well, CM can determine how to replicate it across many hosts.
+https://en.wikipedia.org/wiki/Software_configuration_management
+
+
+What is baseline and purpose of it?
+	-A "baseline" is an agreed description of the attributes of a product, at a point in time, which serves as a basis for defining change.
+	-A baseline may be a single work product, or set of work products that can be used as a logical basis for comparison. A baseline may also be established as the basis for subsequent select activities when the work products meet certain criteria. Such activities may be attributed with formal approval. It use to kepp project on track.
+http://www.thedigitalprojectmanager.com/10-10-top-tips-creating-timing-plans-checkpoint-charlie/
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+
+
+What is Rapid application development and advantage of it?
+	-Rapid application development (RAD) is a software development methodology, which favors iterative development and the rapid construction of prototypes instead of large amounts of up-front planning. The "planning" of software developed using RAD is interleaved with writing the software itself. The lack of extensive pre-planning generally allows software to be written much faster, and makes it easier to change requirements.
+https://en.wikipedia.org/wiki/Software_development_process
+
+
+How to identify configuration items(CI)?
+	-The entity must be uniquely identified so that it can be distinguished from all other configuration items.
+	-From the perspective of the implementer of a change, the CI is the "what" of the change. Altering a specific baseline version of a configuration item creates a new version of the same configuration item, itself a baseline. In examining the effect of a change, two of the questions that must be asked are:
+		1.What configuration items are affected?
+		2.How have the configuration items been affected?
+	-The use of the CI within a product can be traced in a robust status-accounting system.
+	-The CI is subject to acceptance verification based on established criteria.
+https://en.wikipedia.org/wiki/Configuration_item
+
+
+
+Perawith Jarunithi
+5610546281

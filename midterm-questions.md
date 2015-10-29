@@ -56,11 +56,29 @@ Ref: (IBM) Rational Unified Process
 #### 8. Suppose you write software very carefully, always designing before coding, and constantly review your work. By applying such a careful process, can you produce high quality software without testing?
 
 No. Design and code reviews will find a lot of errors, but no amount of inspection will find them all.
-Attempts at formal proof of software correction have mostly failed. (William Schach's book on Software Engineering has example of this: A journal paper showed how to "prove" software correct, but the example code that they "proved" was correct contained an error!  A reader reported the error and supplied a correction, but his correction contained another error!) Software needs to be thoroughly tested.
+Attempts at formal proof of software correction have mostly failed.  Software needs to be thoroughly tested.
 Testing is a part of all engineering disciplines.
+
+William Schach's book on *Classical and O-O Software Engineering* (chapter 6: Testing) has example of this:
+
+In 1969, Naur reported on a technique for constructing and proving a product correct
+[Naur, 1969]. Naur demonstrated his technique to prove correctness of an algorithm for a text-processing problem.
+
+A reviewer of Naur's paper pointed out a small error in the algorithm, which would 
+have been detected by testing. Later, London [1971] found three more
+faults in Naur’s procedure. One is that the procedure does not terminate unless a word
+longer than maxpos characters is encountered. Again, this fault is likely to have been
+detected if the procedure had been tested. London then presented a corrected version
+of the procedure and proved formally that the resulting procedure was correct!
+Still later, Goodenough and Gerhart [1975] found three
+faults that London had not detected, despite his formal “proof.” These included the
+fact that the last word is not output unless it is followed by a blank or newline.
+
+All these errors would probably have been detected by thorough testing.
 
 Ref: [5 Reasons We Need Software Testing](http://www.te52.com/testtalk/2014/08/07/5-reasons-we-need-software-testing/)  
 and [Agile Testing Fundamentals](http://softwaretestingfundamentals.com/agile-testing/)
+William Schach, *Classical and O-O Software Engineering*, 8th Ed, section 6.5.2. 
 
 #### 9. Why have a coding standard?
 

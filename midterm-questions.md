@@ -64,7 +64,7 @@ William Schach's book on *Classical and O-O Software Engineering* (chapter 6: Te
 In 1969, Naur reported on a technique for constructing and proving a product correct
 [Naur, 1969]. Naur demonstrated his technique to prove correctness of an algorithm for a text-processing problem.
 
-A reviewer of Naur's paper pointed out a small error in the algorithm, which would 
+A reviewer of Naur's paper pointed out a small error in the algorithm, which would
 have been detected by testing. Later, London [1971] found three more
 faults in Naur’s procedure. One is that the procedure does not terminate unless a word
 longer than maxpos characters is encountered. Again, this fault is likely to have been
@@ -78,7 +78,7 @@ All these errors would probably have been detected by thorough testing.
 
 Ref: [5 Reasons We Need Software Testing](http://www.te52.com/testtalk/2014/08/07/5-reasons-we-need-software-testing/)  
 and [Agile Testing Fundamentals](http://softwaretestingfundamentals.com/agile-testing/)
-William Schach, *Classical and O-O Software Engineering*, 8th Ed, section 6.5.2. 
+William Schach, *Classical and O-O Software Engineering*, 8th Ed, section 6.5.2.
 
 #### 9. Why have a coding standard?
 
@@ -124,8 +124,19 @@ Ref: Pankaj Jalote, Software Project Management in Practice,  section 10.1
 #### 13. What is a software walk-through, and what are the benefits of it?
 
 There are at least 4 objectives or benefits of walk-throughs *besides* finding defects.
+According to Pongsachon's question (from perlmonks.org) the benefits include:
 
-Among the benefits, it is an effective way to pass knowledge among developers.  Junior devs (as audience) can learn from more advanced devs, or (as author) receive design and code improvements from others.
+* find and fix defects early
+* more cost effective than testing (in terms of defect removal)
+* good mentoring, training, learning, and team-building activity, esp. for new hires.
+* conveys experience to team members.
+* makes it easier for one person to maintain another's code (because they understand it)
+* improve overall quality of code  
+* enforce coding standards
+
+Among the benefits, it is an effective way to pass knowledge among developers.  Junior devs (as code reader) can learn from more advanced devs, or (as code author) receive ideas for improvement from others.
+
+Ref: http://www.perlmonks.org/?node_id=776607
 
 #### What is the difference between a walk-through and a software inspection?
 
@@ -172,3 +183,14 @@ thereby freeing your creative mind to focus on things that contribute value to t
 Humphrey also claims that is improves team communication.  With a defined process you have a clear idea of everyone's roles and responsibilities so communication can be directed effectively, and team members share a common vocabulary.
 
 Ref: *Introduction to the Team Software Process* by Watts Humphrey, Introduction.
+
+#### 16. What are the purpose and goals of Project Monitoring and Control?
+* Purpose  
+    The purpose of Project Monitoring and Control (PMC) is to provide an understanding of the project's progress so that appropriate corrective actions can be taken when the project's performance deviates significantly from the plan.
+
+* Goals
+    * Enable project to produce a high-quality product on time.  
+    * Detect and correct problems related to schedule, progress on product, or failure to meet commitments.
+
+    Refs:  
+      http://www.tutorialspoint.com/cmmi/cmmi_process_areas.htm, Project Monitoring & Control section.  

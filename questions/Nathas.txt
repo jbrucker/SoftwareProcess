@@ -1,6 +1,6 @@
 Nathas Yingsukamol 5610546753 Roles: Once PPQA and Developer but now only Developer.
 
-What are the tasks that PPQA do?
+1. What are the tasks that PPQA do? (5 but answer could be more thorough)
 
 	- PPQA have to check and make sure that code don't have any defects and the format is according to coding standard.
 	PPQA also have to track the work of developers and check the developers' work; make sure they do as planned.
@@ -10,22 +10,22 @@ Reference: From task in week 3 assignment, my remmeber
 		   and this link: https://www.michigan.gov/documents/suite/PPQA_Process_Manual_Version_2.3_430722_7.pdf
 
 
-Describe a good quality of PPQA
+2. Describe a good quality of PPQA. (3, good question but poor answer and poor ref.)
 
-	PPQA should be reliable and careful because PPQA have to check defect and review code. If PPQA not detect problem early,
-	it will effect to the whole project. Project may take longer time to finish. PPQA also have to be able to use good english because
-	PPQA have to do some documents and check every document that the details is complete and the gramma is correct.
+	PPQA should be reliable and careful because PPQA have to check defect and review code. [Wrong: not PPQA's job to review code.] If PPQA not detect problem early,
+	it will effect to the whole project. Project may take longer time to finish. PPQA also have to be able to use good [E]english because
+	PPQA have to do some documents and check every document that the details is[are] complete and the gramma[r] is correct.
 
 Reference: From your(teacher Jim) suggestion in week 3 assignment.
 
-The importance of coding standard?
+3. The importance of coding standard? [not a sentence] (4, incomplete answer)
 	
 	- Coding standard is important because it is the standard that everyone use, so everyone will understand the code.
 	If there is no coding standard, the style maybe different and it will be confuse.
 
 Reference: From my remember in lecture class and this link: http://www.sitepoint.com/coding-standards/
 
-What is the transition phase in RUP from the following choice:
+4. What is the transition phase in RUP from the following choice: (4)
 
 	a. The phase that project will become product. The project is tested and the quality is as end user's expectation.
 	b. The phase that focus on use case and requirment.

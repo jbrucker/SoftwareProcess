@@ -1,6 +1,6 @@
 Question
 
-1. If you are project manager, What is the main activities of project manager?
+1. [If you are project manager,] What is the main activities of project manager? (4)
 
 Ans Project manager do about the project planning mainly. In this phase, the major activities of the project manager are as follows,
 		- perform startup and administrative tasks.
@@ -10,11 +10,14 @@ Ans Project manager do about the project planning mainly. In this phase, the maj
 
 Reference: Jalote, Software Project Management in Practice, section 1.3.5.
 
-2. From Quality Planning, why must defect prevention activities be planned? How to implement it to your project?
+2. From Quality Planning, why must defect prevention activities be planned? How to implement it to your project? 
+(4, answer not very helpful. "do defect prevention" should have concrete activities.
 	
 Ans defect prevention activities(DP) must be planned because they are intended to
-improve quality and improve productivity. The quality of the final delivered software can be 
-improved if fewer defects are introduced while the software is being built. We can implement DP activities with the following steps,
+improve quality and improve productivity. 
+The quality of the final delivered software can be 
+improved if fewer defects are introduced while the software is being built. We can implement DP activities with the following steps,[:]
+
 		- Identify a defect prevention team within the project.
 		- Have a kick-off meeting and identify existing solution.
 		- Plan for defect prevention.
@@ -24,6 +27,7 @@ improved if fewer defects are introduced while the software is being built. We c
 Reference: Jalote, Software Project Management in Practice, section 5.3.
 
 3. How do you define version or revision numbering for software source files? (CM question)
+(2, the answer is a matter of convention)
 
 Ans The scratch edition will be 1.0. Any major change in source will be assigned version 1.1, 1.2, etc., and minor changes will have versioning 1.1.1,1.1.2, etcs. For understand easily,
 	(Major version).(Minor version).(Revision number).(Build number)
@@ -33,6 +37,8 @@ Reference: - Jalote, Software Project Management in Practice, section 9.3.
  	        - https://en.wikipedia.org/wiki/Software_versioning#/media/File:VersionNumbers.svg    
 
 4. From movement of configuration items through their storage areas, draw configuration control process for documents diagram. (CM question)
+(2, the answer is a matter of convention)
+
 Ans
 
 Reference: - Jalote, Software Project Management in Practice, section 9.3.

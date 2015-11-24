@@ -1,10 +1,10 @@
 Muninthorn Thongnuch 5610545765
 
-1. What is software testing?
+1. What is software testing? (3)
 	- Software testing is a 'process' of validating the software against the requirements.
 	Ref: from a part of top answer, Daniel B, http://programmers.stackexchange.com/questions/167580/what-is-the-aim-of-software-testing
 
-2. What is the different between unit testing and system testing?
+2. What is the different between unit testing and system testing? (5)
 	- Unit testing 
 			– Testing of individual software components or modules to ensure that the code is working fine.
 	  System testing 
@@ -12,7 +12,7 @@ Muninthorn Thongnuch 5610545765
 	Ref: http://www.softwaretestinghelp.com/types-of-software-testing/
 		 http://istqbexamcertification.com/what-are-software-testing-levels/
 
-3. When to use Waterfall model?
+3. When to use Waterfall model? (5)
 	- 1) This model is used only when the requirements are very well known, clear and fixed.
 	  2) Product definition is stable.
 	  3) Technology is understood.
@@ -21,7 +21,7 @@ Muninthorn Thongnuch 5610545765
 	  6) The project is short.
 	Ref: http://istqbexamcertification.com/what-is-waterfall-model-advantages-disadvantages-and-when-to-use-it/
 
-4. What is the main goal of code review?
+4. What is the main goal of code review? (3, good question but poor answer.)
 	- Defect-free.
     Ref: http://support.smartbear.com/articles/collaborator/why-review-code/
    	Interesting Article: http://www.kunal-chowdhury.com/2013/06/code-review-and-its-importance.html

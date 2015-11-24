@@ -1,7 +1,7 @@
 Manatsawin Hanmongkolchai / 5610545757
 
 # Question 1
-Name some agile methodologies for software project management
+Name some agile methodologies for software project management (3, just naming things doesn't show understanding)
 
 ## Answer
 - Extreme Programming
@@ -16,7 +16,7 @@ Name some agile methodologies for software project management
 Software Engineering 9th edition - Ian Sommerville, section 3.1
 
 # Question 2
-What are some advantages of using iterative development process
+What are some advantages of using iterative development process (5)
 
 ## Answer
 1. The product is broken down to several manageable chunks
@@ -29,7 +29,7 @@ What are some advantages of using iterative development process
 Software Engineering 9th edition - Ian Sommerville, section 3.4
 
 # Question 3
-What  are some of the common coding standards
+What are some common elements in a coding standard? (4)
 
 ## Answer
 - Use consistent variable name
@@ -42,10 +42,10 @@ Software Engineering - Hands on Approach, section 9.8
 
 
 # Question 4
-What is opportunistic reuse and systematic reuse
+What are opportunistic reuse and systematic reuse? (4, how would students know these terms?)
 
 ## Answer
-Opportunistic reuse is to reuse code of older products
+Opportunistic reuse is to reuse code of older products.
 
 Systematic reuse is to craft code for future reuse
 

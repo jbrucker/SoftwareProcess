@@ -1,4 +1,5 @@
-﻿1. (Role - Related Question) In CHAOS report most project are failed to deliver or delayed, Suppose you are project manager. What are the precaution that you take in order to make sure, That you project are not failed and delayed as little as possible to none?
+﻿1. (Role - Related Question) In CHAOS report most project[s] are[x] failed to deliver or [were] delayed,[should be period] Suppose you are [a] project manager. What are the precaution[s] that you take in order to make sure,[NO COMMA] T[t]hat you[r] project are[does] not failed[no "ed"] and [or] delayed as little as possible to none? (4, many answers possible)
+
         Reference: Reason for project failures By Andrew Short
         
         Ans  
@@ -6,26 +7,30 @@
 * Schedule the time so that you take the data migration into account, Because most of time the project was late because a little of time was allocated to data migration task.
 
 
-1. (Role - Related Question) Your company are doing the project on e-commerce website, Which the customer are known for changing the requirement a lot. Which are the method of the development fit the project the most?
+2. (Role - Related Question) Your company are doing the project on e-commerce website, Which the customer are known for changing the requirement a lot. Which are the method of the development fit the project the most [best]? (3, answer should include a reason. Choices overlap.)
+
 Reference: http://www.slideshare.net/MarrajuBollapRagada/agile-vs-iterativevswaterfall  
 
 
-1. Waterfall                                b. Iterative
-      c.   Agile                                        d. Scrum
+1. Waterfall                                
+b. Iterative
+c. Agile  [Agile is usually Iterative, and Iterative is often Agile]
+d. Scrum  [Scrum is an Agile process]
 
 
-     3.  Which are not the reason that we have the code standard?
+3.  Which are not the reason[s] that we have the[a] code[coding] standard? (5)
+
         Reference: https://en.wikipedia.org/wiki/Coding_conventions
 
+1. Increase readability                         
+b. Easy to modify/maintenance
+c. Defect can be found easier                
+d. Safety of the project
 
 
+4. Who should be responsible for defect checking of the code in the project? (1)
 
-1. Increase readability                         b. Easy to modify/maintenance
-              c.   Defect can be found easier                d. Safety of the project
-
-
-     4. Who should be responsible for defect checking of the code in the project?
-        Reference : https://github.com/jbrucker/SoftwareProcess/blob/master/week3/Team-Roles.pdf
+ Reference : https://github.com/jbrucker/SoftwareProcess/blob/master/week3/Team-Roles.pdf
 
 
 1. PPQA                                        b. Tester

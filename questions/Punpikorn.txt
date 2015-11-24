@@ -1,22 +1,35 @@
 Team Leader
-1.) What are two primary duties for team leader as a team manager?
+
+1) What are two primary duties of team leader as a team manager? (4, good question but many other answers possible. Somewhat opinionated.)
+
 Ans: Team motivation and project resource management.
+
 Ref: Team Software ProcessSM (TSPSM) Body of Knowledge (BOK) by Software Engineering Institute
 	 Page 35, line #3 of 2.6.2 The TSP team leader’s role as team manager.
 
 PMC
-2.) Which one is not the responsibility of PMC(Project Monitoring and Control)?
-A. Determine if the project is under Control 			B. Identify if the project is out of control
-C. Help ensure accomplishment of plans					D. Ensure that the tasks were completely done
+
+2) Which one is not the responsibility of PMC (Project Monitoring and Control)? (5)
+
+  A. Determine if the project is under Control 			
+  B. Identify if the project is out of control (same as "A")
+  C. Help ensure accomplishment of plans					
+  D. Ensure that the tasks were completely done
+
 Ans: D, since D is the PPQA responsibility.
+
 Ref: www.upv.es/~jmontesa/GPI/Ingles/GpiIP-3B.ppt, slide #4 and #7
 
-3.) What is the main goal of the inspection?
+3) What is the main goal of an inspection? (5)
+
 Ans: The goal of the inspection is to identify defects.
+
 Ref: https://en.wikipedia.org/wiki/Software_inspection, introduction line #4
 
-4.) The use-case model should be almost complete from which phase of RUP?
+4) The use-case model should be almost complete from which phase of RUP? (4, someone could guess this)
+
 Ans: Elaboration
+
 Ref: https://en.wikipedia.org/wiki/Rational_Unified_Process, Elaboration phase line #4 (it said 80% complete)
 
 Mr. Punpikorn Rattanawirojkul 5610545722

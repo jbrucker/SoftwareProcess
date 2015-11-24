@@ -1,19 +1,19 @@
 Natchanon Charoensuk [5610546257] - Homework 8
 
-Question:	Why coding standards are important on development team?
+Question:	Why coding standards are important on development team? (2, answer means nothing)
 Answer:	To make sure that a large project is coded in a consistent style.
 Reference:	http://www.sitepoint.com/coding-standards/
 
-Question:	Why we need to do the Weekly Activities Reports?
+Question:	Why we need to do the Weekly Activities Reports? (2, answer is poor)
 Answer:	Easy to list add issues that occur during a week; 
 	help managers to observe of  tasks and their process.
 Reference:	https://reportingadvice.wordpress.com/2013/02/18/the-purpose-of-weekly-status-reports/
 
-Question:	What is the purpose of High Level Design?
+Question:	What is the purpose of High Level Design? (0, not a process question)
 Answer:	To define a software structure which is able to fulfill the requirements.
 Reference:	http://www.the-software-experts.com/e_dta-sw-design-high-level.php
 
-Question:	What are Effort Estimation use for? (can answer more than one)
+Question:	What are Effort Estimation use for? (can answer more than one) (4)
 Choice:	A) Iteration plans
 	B) High Level Design
 	C) Testing

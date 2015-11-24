@@ -1,17 +1,17 @@
 Mintra Thirasirisin 5610546761
 
-1.) Why coding standard document is needed?
+1.) Why is a coding standard document needed? (3: good question but poor answer)
 	- Because coding standard document tells developers how they must write their code (in the same standard).
 	Reference : http://www.sitepoint.com/coding-standards/
 
-2.) What is the purpose of Tester?
+2.) What is the purpose of Tester? (3)
 	- Tester employed to find bugs, perform the tests and also report the results in order to improve the quality of software.
 	Reference : https://en.wikipedia.org/wiki/Software_testing
 
-3.) What is the difference between Tester and PPQA?
+3.) What is the difference between tester and PPQA? (5)
 	- PPQA have to assure the qulity of software by the standard and software process. On the other hand, Tester is focus on detecting bugs.
 	Reference : http://www.test-institute.org/What_is_Software_Quality_Assurance.php
 
-4.) What is SRS?
+4.) What is an SRS? (4)
 	- It is a comprehensive description of the intended purpose and environment for software under development. The SRS fully describes what the software will do and how it will be expected to perform.
 	Reference : http://searchsoftwarequality.techtarget.com/definition/software-requirements-specification

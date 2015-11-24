@@ -3,7 +3,7 @@ Nichamon Han-idhikul 5610545684
 
 ================================================================================================================================
 
-Question 1
+Question 1 (5)
 
 High quality software can be defined as the software with as few defects as possible. 
 Describe the definition of defect, when the defect is injected in the project and 
@@ -28,7 +28,7 @@ Reference: Pankaj Jalote, Software Project Management in Practice, section 5.1
 ================================================================================================================================
 
 
-Question 2
+Question 2 (5)
 
 The group review process is divided into 4 stages: planning, overview and preparation, group review meeting,
 and rework and follow-up. Describe short explanation of the activities in each of stages. 
@@ -54,7 +54,7 @@ section 10.1, 10.1.1, 10.1.2, 10.1.3, 10.1.4
 
 ===============================================================================================================================
 
-Question 3
+Question 3 (5)
 
 In this semester, 5 SKE students need to work on a software project. The project is about a website 
 that provides the contents about project management, students need to research the content and write story board. 
@@ -75,7 +75,7 @@ http://pm.stackexchange.com/questions/389/when-to-use-waterfall-when-to-use-scru
 
 ===============================================================================================================================
 
-Question 4
+Question 4 (5)
 
 Describe the objective of each phases that are used in Rational unified process.
 

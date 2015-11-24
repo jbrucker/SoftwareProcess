@@ -1,4 +1,4 @@
-1.What is SRS?
+1.What is SRS? (2)
 
 ans. SRS or Software Requirement Specification is a document produced at the time of requirement gathering process. It can be also seen as a process of refining requirements and documenting them.
 
@@ -6,7 +6,7 @@ ref
 http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
 
 
-2.In a planned-based approach (this is, prescriptive planning) to software project management, the development process is planned in detail, including the work to be done, schedule, and work products. What are the pros and cons of this approach?
+2.In a planned-based approach (this is, prescriptive planning) to software project management, the development process is planned in detail, including the work to be done, schedule, and work products. What are the pros and cons of this approach? (1)
 
 ans.
 Pros
@@ -22,14 +22,14 @@ https://lms.ku.ac.th/mod/assign/view.php?id=578
 
 
 
-3.what is a coding standard?
+3.what is a coding standard? (2, any programmer would know this)
 
 ans. It is the standard of code. It will make the code of the program is to make the running in the same format as a large group. The code will have the same format.
 
 ref in thai 
 http://meewebfree.com/site/php-codeigniter/431-what-is-coding-standard
 
-4. In RUP which phase is focus on design?
+4. In RUP which phase is focus on design? (3)
 1.Inception
 2.Elaboration
 3.Construction

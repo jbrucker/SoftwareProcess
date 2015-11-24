@@ -1,4 +1,4 @@
-What is the goals of CM?
+What is[are] the goals of CM?
 	-CM is the task of tracking and controlling changes in the software, part of the larger cross-disciplinary field of configuration management. CM practices include revision control and the establishment of baselines. If something goes wrong, SCM can determine what was changed and who changed it. If a configuration is working well, CM can determine how to replicate it across many hosts.
 https://en.wikipedia.org/wiki/Software_configuration_management
 

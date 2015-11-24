@@ -29,15 +29,18 @@ Answer   Black-box Testing
  https://github.com/jbrucker/SoftwareProcess/blob/master/week7/Testing%20Outline.md
 
 
-4.Give examples of software development model and explain
+4.Give examples of software development model and explain (2)
 Answer	Waterfall model:
-			This is the oldest model. It represents sequence of stages; output of one stage becomes input of others.
+			This is the oldest model. It represents sequence of stages; output of one stage becomes input of others. [this is true of every process]
 		Spiral Model:
 			This is improved version of waterfall model. Here we have scope to reiterate and go back to the earlier stages number of times as project progresses.
+[So do iterative processes, what is special about Spiral Model?]
 		Prototyping Model
 			In this model, we develop prototype which acts like a final product. Once prototype is approved, then the actual development starts.
+[Waterfall can also include a prototype! See Royce's original paper.]
 		Incremental Model
-			In this model, the product is divided into sections and each section of the product are created and tested separately. 
+			In this model, the product is divided into sections and each section of the product are created and tested separately. [Wrong: product isn't divided into "sections".
+Iteration is more commonly based on refining the arcitecture and implementing features]
 http://www.careerride.com/Project-Mananagement-SDLC.aspx
 cc.ee.ntu.edu.tw/~farn/courses/SE/ch4.ppt
 http://sci.udru.ac.th/websci/download/com/rewadee/Information/softwareProcess.pdf

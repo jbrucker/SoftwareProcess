@@ -1,23 +1,24 @@
 Software Process Question
 
-1.) Which one is not the outcome after the end of Elaboration Phase?
-	a.) Most of Use case model (about 80%)
-	b.) Requirement Understanding and scope of the overall project
-	c.) Software Architecture Description
-	d.) Development plan for the overall project
+1) Which one is not the outcome after the end of Elaboration Phase? (5)
+	a) Most of Use case model has been completed (about 80%)
+	b) Requirement scope of the overall project are understood
+	c) Software Architecture Description
+	d) Development plan for the overall project
 
-Answer : b 
+Answer: b 
+
 	Because you should understand all the requirement in the Inception Phase so that you can estimate the cost and risk of the project and discuss with customer. Then, you can accept the project and analysis the requirement in the next phase.
 
 Reference : https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf
 
 
 
-2.) Based on our class, what CMMI level are we relating to divide the process area. 
+2) Based on our class, what CMMI level are we relating to the process area? (3)
 Define 3 process areas.
 
 Answer : Maturity Level 2 - Managed
-    •      CM - Configuration Management
+    •   CM - Configuration Management
 	•	MA - Measurement and Analysis
 	•	PMC - Project Monitoring and Control
 	•	PP - Project Planning
@@ -32,7 +33,8 @@ https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 
 
 
-3.) What is project estimation?
+3) What is project estimation? (5)
+
 Answer : It is a process to estimate various aspects of software product in order to calculate the cost of development in terms of efforts, time and resources. This estimation can be derived from past experience, by consulting experts or by using pre-defined formulas.
 
 Reference :
@@ -40,8 +42,8 @@ http://www.tutorialspoint.com/software_engineering/software_engineering_intervie
 
 
 
-4.) Define 3 advantages why we should perform code reviews?
-
+4) Define 3 advantages why we should perform code reviews? (5)
+   [Describe 3 benefits of performing code reviews.]
 Answer : 	
     •	Find and fix defects early.
 	•	Code review often proves more cost effective than testing.

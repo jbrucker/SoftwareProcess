@@ -1,4 +1,4 @@
-#### 1. Describe one "top-down" and one "bottoms-up" method of estimating effort in a software project. (No credit for just naming it.)
+ #### 1. Describe one "top-down" and one "bottoms-up" method of estimating effort in a software project. (No credit for just naming it.)
 
 #### 2. What is the "cost of defects"?
 
@@ -23,9 +23,10 @@ Ref: Sterling, Managing Software Debt, page 68, "Test-Driven Development (or Des
 #### 5. In RUP, what is the goal of business modeling? At what phase should business modeling be substantially performed?
 
 The goals of business modeling are
-a) to understand the business structure and dynamics
-b) ensure that customers, end users, and developers have a common understanding of the organization
-c) to derive system requirements to support the organization (where the software will be used)
+
+* to understand the business structure and dynamics
+* ensure that customers, end users, and developers have a common understanding of the organization
+* to derive system requirements to support the organization (where the software will be used)
 
 Ref: Kruchten, The Rational Unified Process: An Introduction, 3E, Figure 3-5. Nine Core Disciplines
 
@@ -41,11 +42,11 @@ http://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251
 
 #### 7. What are common problems that configuration management should control?
 
-1. Simultaneous Updates  When two or more workers work separately on the same artifact,
+1. Simultaneous Updates - When two or more workers work separately on the same artifact,
 the last one to make changes destroys the work of the former.
-2. Limited Notification  When a problem is fixed in artifacts shared by several developers,
+2. Limited Notification - When a problem is fixed in artifacts shared by several developers,
 and some of them are not notified of the change.
-3. Multiple Versions  Most large programs are developed in evolutionary releases.
+3. Multiple Versions - Most large programs are developed in evolutionary releases.
 One release could be in use by customer, while another is in test, and the third is still in development.
 If problems are found in any one of the versions, fixes need to be propagated between them.
 Confusion can arise leading to costly fixes and re-work unless changes are carefully controlled and monitored.
@@ -76,7 +77,7 @@ fact that the last word is not output unless it is followed by a blank or newlin
 
 All these errors would probably have been detected by thorough testing.
 
-Ref: [5 Reasons We Need Software Testing](http://www.te52.com/testtalk/2014/08/07/5-reasons-we-need-software-testing/)  
+Ref: [5 Reasons We Need Software Testing](http://www.te52.com/testtalk/2014/08/07/5-reasons-we-need-software-testing/)
 and [Agile Testing Fundamentals](http://softwaretestingfundamentals.com/agile-testing/)
 William Schach, *Classical and O-O Software Engineering*, 8th Ed, section 6.5.2.
 
@@ -101,7 +102,7 @@ Principally in requirements specification, design, and coding.
 
 This is easy.
 
-### What software process would be suitable for the project below?  Give a reason for your answer.
+### 11. What software process would be suitable for the project below?  Give a reason for your answer.
 
 In a semester project, 5 SKE students must create a web application that provides information about SKE senior projects.  The customer is a teacher, who meets with students during the first class to discuss requirements.  There are not many requirements and students think they clearly understand what is wanted.
 The instructor gives the team 2 weeks to finish the project, and then goes to Japan for 2 weeks.
@@ -131,7 +132,7 @@ According to Pongsachon's question (from perlmonks.org) the benefits include:
 * good mentoring, training, learning, and team-building activity, esp. for new hires.
 * conveys experience to team members.
 * makes it easier for one person to maintain another's code (because they understand it)
-* improve overall quality of code  
+* improve overall quality of code
 * enforce coding standards
 
 Among the benefits, it is an effective way to pass knowledge among developers.  Junior devs (as code reader) can learn from more advanced devs, or (as code author) receive ideas for improvement from others.
@@ -185,12 +186,13 @@ Humphrey also claims that is improves team communication.  With a defined proces
 Ref: *Introduction to the Team Software Process* by Watts Humphrey, Introduction.
 
 #### 16. What are the purpose and goals of Project Monitoring and Control?
-* Purpose  
+
+* Purpose
     The purpose of Project Monitoring and Control (PMC) is to provide an understanding of the project's progress so that appropriate corrective actions can be taken when the project's performance deviates significantly from the plan.
 
 * Goals
-    * Enable project to produce a high-quality product on time.  
+    * Enable project to produce a high-quality product on time.
     * Detect and correct problems related to schedule, progress on product, or failure to meet commitments.
 
-    Refs:  
-      http://www.tutorialspoint.com/cmmi/cmmi_process_areas.htm, Project Monitoring & Control section.  
+    Refs:
+      http://www.tutorialspoint.com/cmmi/cmmi_process_areas.htm, Project Monitoring & Control section.

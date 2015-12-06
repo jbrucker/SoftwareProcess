@@ -1,0 +1,11 @@
+PSP Section 7.5 "Earned Value":
+
+"Note that there is no partial credit for partially completed tasks.
+The earned value credit is given only when the task is completed.
+If the task is half done, it contributes nothing."
+
+This is the most common way of measuring earned value.
+
+However, some references on the web mention conventions for
+assigning EV to partially completed work. The problem is in
+aligning EV with the actual "percentage done".
